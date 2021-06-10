@@ -81,12 +81,12 @@ Main colour used in project:
 ### Images
 * I used image from
 
-# Features
+## Features
 The website consists of 6 pages. 4 pages from a navigation menu. One is a 404 error page and one is a submission confirmation page for a form.
 
 The website has below features:
 
-## Navigation bar
+### Navigation bar
 * Navigation bar is visible on the top of each website.
 * Navigation scheme:
 ##### On the right side is four links. It contains:
@@ -95,13 +95,13 @@ The website has below features:
 * About us
 * Contact us
 
-# Technologies Used
+## Technologies Used
 
-## Languages
+### Languages
 * HTML
 * CSS
 
-## Frameworks & Tools
+### Frameworks & Tools
 * Bootstrap v5.0
 * Git
 * GitHub
@@ -109,6 +109,6 @@ The website has below features:
 * Google Fonts
 * Font Awsome
 
-# Testing
+## Testing
 
-# Issues found during site development
+## Issues found during site development
