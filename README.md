@@ -37,3 +37,4 @@ The website is made so it should be easy for anyone to use the website on any de
 ## Wireframes
 I used website wireframe.cc to creat a wireframe.
 
+![1-Homepage](https://user-images.githubusercontent.com/85236391/121507723-32afae00-c9e5-11eb-80fe-31c2721e5f3f.png)
