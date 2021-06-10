@@ -11,7 +11,7 @@ This website will be build with HTML and CSS only.
 ### Website owner business goals
 
 * Increase in the number of customers
-* Promote the bussines
+* Promote the bussiness
 * Make it easy for customers to keep in contact with the business
 * Update schedule for classes
 * Show the location of the gym and opening hours
