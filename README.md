@@ -38,7 +38,7 @@ This website will be build with HTML and CSS only.
 * Good presentation and a visually appealing design regardless of screen size
 * Easy to contact the business
 
-## User Stories
+### User Stories
 
 * As a new user can easy navigate the website
 * As a new user it's easy to find find promotion deals
@@ -48,8 +48,6 @@ This website will be build with HTML and CSS only.
 * As a returning user I want clear information about the hours of classes
 * As a returning user I can see information about different personal trainers
 * As a returning user to the website it should be easy to share or page to different social media
-
-### User Stories
 
 ## Structure of the website
 
