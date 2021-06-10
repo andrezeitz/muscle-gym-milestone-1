@@ -38,9 +38,12 @@ The website is made so it should be easy for anyone to use the website on any de
 I used website wireframe.cc to creat a wireframe.
 
 ### Desktop
-![Skärmavbild 2021-06-10 kl  12 30 11](https://user-images.githubusercontent.com/85236391/121510480-f467be00-c9e7-11eb-8265-9392664f391a.png)
+![1-Homepage](https://user-images.githubusercontent.com/85236391/121511290-c3d45400-c9e8-11eb-8fab-9b2b1e3bd588.png)
+![2-Classes-and-Price](https://user-images.githubusercontent.com/85236391/121511296-c46cea80-c9e8-11eb-9c9d-2f33185b370c.png)
+![3-About-us-and-Contact](https://user-images.githubusercontent.com/85236391/121511298-c5058100-c9e8-11eb-8506-c4a3020968a2.png)
+
 ### Mobile
-![Skärmavbild 2021-06-10 kl  12 31 27](https://user-images.githubusercontent.com/85236391/121510493-f893db80-c9e7-11eb-94ef-d543f6753cea.png)
-![5-Classes-and-Price-Mobile](https://user-images.githubusercontent.com/85236391/121509400-e49baa00-c9e6-11eb-8bf1-8305b3981c2d.png)
-![6-About-us-and-Contact-Mobile](https://user-images.githubusercontent.com/85236391/121509403-e5344080-c9e6-11eb-924e-3fa1e9cf78c4.png)
+![4-Homepage-Mobile](https://user-images.githubusercontent.com/85236391/121511299-c5058100-c9e8-11eb-93f9-4ff906cbe534.png)
+![5-Classes-and-Price-Mobile](https://user-images.githubusercontent.com/85236391/121511301-c59e1780-c9e8-11eb-85e5-256378b9426f.png)
+![6-About-us-and-Contact-Mobile](https://user-images.githubusercontent.com/85236391/121511303-c59e1780-c9e8-11eb-8c15-693a28d8dbfb.png)
 
