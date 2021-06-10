@@ -47,3 +47,30 @@ I used website wireframe.cc to creat a wireframe.
 ![5-Classes-and-Price-Mobile](https://user-images.githubusercontent.com/85236391/121511301-c59e1780-c9e8-11eb-85e5-256378b9426f.png)
 ![6-About-us-and-Contact-Mobile](https://user-images.githubusercontent.com/85236391/121511303-c59e1780-c9e8-11eb-8c15-693a28d8dbfb.png)
 
+## Surface
+
+### Colors
+Main colour used in project:
+* background color: #fff
+* font color: #3a3a3a
+
+### Fonts
+* As a main font I used Cairo and Rubik, and as backup font sans-serif
+
+### Images
+* I used image from
+
+# Features
+The website consists of 6 pages. 4 pages from a navigation menu. One is a 404 error page and one is a submission confirmation page for a form.
+
+The website has below features:
+
+## Navigation bar
+* Navigation bar is visible on the top of each website.
+* Navigation scheme:
+##### On the right side is four links. It contains:
+* Home
+* Classes and Price
+* About us
+* Contact us
+
