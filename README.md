@@ -37,8 +37,9 @@ The website is made so it should be easy for anyone to use the website on any de
 ## Wireframes
 I used website wireframe.cc to creat a wireframe.
 
-
+### Desktop
 ![Skärmavbild 2021-06-10 kl  12 30 11](https://user-images.githubusercontent.com/85236391/121510480-f467be00-c9e7-11eb-8265-9392664f391a.png)
+### Mobile
 ![Skärmavbild 2021-06-10 kl  12 31 27](https://user-images.githubusercontent.com/85236391/121510493-f893db80-c9e7-11eb-94ef-d543f6753cea.png)
 ![5-Classes-and-Price-Mobile](https://user-images.githubusercontent.com/85236391/121509400-e49baa00-c9e6-11eb-8bf1-8305b3981c2d.png)
 ![6-About-us-and-Contact-Mobile](https://user-images.githubusercontent.com/85236391/121509403-e5344080-c9e6-11eb-924e-3fa1e9cf78c4.png)
