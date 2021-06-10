@@ -37,10 +37,9 @@ The website is made so it should be easy for anyone to use the website on any de
 ## Wireframes
 I used website wireframe.cc to creat a wireframe.
 
-![1-Homepage](https://user-images.githubusercontent.com/85236391/121507723-32afae00-c9e5-11eb-80fe-31c2721e5f3f.png)
-![2-Classes-and-Price](https://user-images.githubusercontent.com/85236391/121509390-e36a7d00-c9e6-11eb-80e3-662fe8f4e08b.png)
-![3-About-us-and-Contact](https://user-images.githubusercontent.com/85236391/121509392-e4031380-c9e6-11eb-89d3-65a18353c579.png)
-![4-Homepage-Mobile](https://user-images.githubusercontent.com/85236391/121509395-e49baa00-c9e6-11eb-89b2-7aaf2576a701.png)
+
+![Skärmavbild 2021-06-10 kl  12 30 11](https://user-images.githubusercontent.com/85236391/121510480-f467be00-c9e7-11eb-8265-9392664f391a.png)
+![Skärmavbild 2021-06-10 kl  12 31 27](https://user-images.githubusercontent.com/85236391/121510493-f893db80-c9e7-11eb-94ef-d543f6753cea.png)
 ![5-Classes-and-Price-Mobile](https://user-images.githubusercontent.com/85236391/121509400-e49baa00-c9e6-11eb-8bf1-8305b3981c2d.png)
 ![6-About-us-and-Contact-Mobile](https://user-images.githubusercontent.com/85236391/121509403-e5344080-c9e6-11eb-924e-3fa1e9cf78c4.png)
 
