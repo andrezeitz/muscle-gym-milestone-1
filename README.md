@@ -29,12 +29,12 @@ This website will be build with HTML and CSS only.
 * People that is looking for a gym
 * People that have high expectations on gym equipment
 * Groups of people looking for a place to train together
-* Small to medium wedding parties
+* People that is looking to train with an experience personal trainer
 
 ### User Requrements and Expectations
 * Links and functions that always work
 * A simple navigation system
-* Easily and quick find relevant information
+* Easily and quick to find relevant information
 * Good presentation and a visually appealing design regardless of screen size
 * Easy to contact the business
 
