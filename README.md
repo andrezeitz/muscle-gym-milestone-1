@@ -6,13 +6,39 @@ This website can not be used as a template for a business since its a project fo
 This website will be build with HTML and CSS only.
 
 
-# UX
+## Project Goals
 
-## Website owner business goals
+### Website owner business goals
 
-The reason to create this website is to make the public know more about this brand new gym in Stockholm. The website will show opening times, prices for different subcreation options and location to the gym.
+* Increase in the number of customers
+* Promote the bussines
+* Make it easy for customers to keep in contact with the business
+* Update schedule for classes
+* Show the location of the gym and opening hours
 
-## User goals
+### User goals
+
+* Find the location of the gym
+* Find what typ of classes are offered
+* See what people work as personal trainers
+* See price for classes and gym
+
+## User Experience
+
+### Target Audience
+* People that is looking for a gym
+* People that have high expectations on gym equipment
+* Groups of people looking for a place to train together
+* Small to medium wedding parties
+
+### User Requrements and Expectations
+* Links and functions that always work
+* A simple navigation system
+* Easily and quick find relevant information
+* Good presentation and a visually appealing design regardless of screen size
+* Easy to contact the business
+
+## User Stories
 
 * As a new user can easy navigate the website
 * As a new user it's easy to find find promotion deals
@@ -22,6 +48,8 @@ The reason to create this website is to make the public know more about this bra
 * As a returning user I want clear information about the hours of classes
 * As a returning user I can see information about different personal trainers
 * As a returning user to the website it should be easy to share or page to different social media
+
+### User Stories
 
 ## Structure of the website
 
@@ -40,7 +68,7 @@ I used website wireframe.cc to creat a wireframe.
 ![5-Classes-and-Price-Mobile](https://user-images.githubusercontent.com/85236391/121511301-c59e1780-c9e8-11eb-85e5-256378b9426f.png)
 ![6-About-us-and-Contact-Mobile](https://user-images.githubusercontent.com/85236391/121511303-c59e1780-c9e8-11eb-8c15-693a28d8dbfb.png)
 
-## Surface
+## Design
 
 ### Colors
 Main colour used in project:
