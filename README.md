@@ -66,3 +66,21 @@ The website has below features:
 * Classes and Price
 * About us
 * Contact us
+
+# Technologies Used
+
+## Languages
+* HTML
+* CSS
+
+## Frameworks & Tools
+* Bootstrap v5.0
+* Git
+* GitHub
+* Gitpod
+* Google Fonts
+* Font Awsome
+
+# Testing
+
+# Issues found during site development
