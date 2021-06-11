@@ -29,3 +29,19 @@ h2 {
     margin-left: 40px;
     font-size: 300%;
 }
+
+/* navigation links */
+
+#navigation {
+    font-size: 100%;
+}
+
+#logo, #navigation {
+    line-height: 60px;
+}
+
+#navigation li {
+    float: right;
+    list-style-type: none;
+    margin-right: 20px;
+}
