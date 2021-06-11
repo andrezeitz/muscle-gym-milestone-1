@@ -1,3 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
 body {
-    background-color: blueviolet;
+    font-family:Cairo, sans-serif;
+    font-weight: 250;
+    color: #3a3a3a
 }
