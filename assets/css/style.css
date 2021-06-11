@@ -55,3 +55,17 @@ h1 {
 .active {
     border-bottom: 2px solid #b80f0a;
 }
+
+#gym-section {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+
+}
+
+#gym-image {
+    height: 600px;
+    width: 100%;
+    background:url('../images/gym.images.jpeg') no-repeat center center;
+}
