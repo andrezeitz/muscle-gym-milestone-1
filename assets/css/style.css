@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto&display=swap');
+
+
 * {
     margin: 0;
     padding: 0;
@@ -5,12 +8,17 @@
 }
 
 body {
-    font-family:Cairo, sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 250;
-    color: #3a3a3a
+    color: #3a3a33;
 }
 
-/* heading and logo */
+/* h1, h2 and logo */
+#logo {
+    float: left;
+    margin-left: 20px;
+    font-size: 300%;
+}
 
 h1 {
     font-family:Impact, sans-serif;
@@ -18,22 +26,10 @@ h1 {
     color: #b80f0a;
 }
 
-h2 {
-    font-family:Oswald, sans-serif
-    text-transform: uppercase;
-    color: #b80f0a;
-}
-
-#logo {
-    float: left;
-    margin-left: 40px;
-    font-size: 300%;
-}
-
-/* navigation links */
+/* navigation */
 
 #navigation {
-    font-size: 100%;
+    font-size: 80%;
 }
 
 #logo, #navigation {
@@ -45,3 +41,18 @@ h2 {
     list-style-type: none;
     margin-right: 20px;
 }
+
+#navigation a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: inherit
+}
+
+#navigation a :hover {
+    color: #b80f0a;
+}
+
+.on {
+    border-radius: #b80f0a;
+}
+
