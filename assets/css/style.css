@@ -29,11 +29,11 @@ h1 {
 /* navigation */
 
 #navigation {
-    font-size: 80%;
+    font-size: 120%;
 }
 
 #logo, #navigation {
-    line-height: 60px;
+    line-height: 70px;
 }
 
 #navigation li {
@@ -48,11 +48,10 @@ h1 {
     color: inherit
 }
 
-#navigation a :hover {
+#navigation a:hover {
     color: #b80f0a;
 }
 
-.on {
-    border-radius: #b80f0a;
+.active {
+    border-bottom: 2px solid #b80f0a;
 }
-
