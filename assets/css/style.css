@@ -26,6 +26,12 @@ h1 {
     color: #b80f0a;
 }
 
+h2 {
+    font-family: Lato, sans-serif;
+    text-transform: uppercase;
+    color: #b80f0a;
+}
+
 /* navigation */
 
 #navigation {
@@ -56,16 +62,22 @@ h1 {
     border-bottom: 2px solid #b80f0a;
 }
 
+
+/* photo */
+
 #gym-section {
     height: 600px;
     width: 100%;
     overflow: hidden;
-    position: relative;
-
 }
 
-#gym-image {
+#gym-pic {
     height: 600px;
     width: 100%;
-    background:url('../images/gym.images.jpeg') no-repeat center center;
+    background: url('../images/working.out.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
+
