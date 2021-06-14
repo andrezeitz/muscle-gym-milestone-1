@@ -81,3 +81,13 @@ h2 {
     position: relative;
 }
 
+#gym-info {
+    position: left;
+    font-size: 100%;
+    margin-left: 50px;
+    margin-top: 30px;
+    max-width: 40%;
+    float:left
+}
+
+
