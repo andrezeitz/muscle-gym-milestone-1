@@ -93,6 +93,11 @@ h2 {
     
 }
 
+.boxes hr {
+    border-bottom: 1px solid #3a3a3a;
+    width:60%;
+}
+
 .boxes p {
     padding-top: 15px;
     padding-bottom: 15px;
@@ -152,3 +157,21 @@ h2 {
     float: right;
     padding: 15px 0;
 }
+
+
+
+/* about us */
+
+
+#about-us {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+
+}
+.welcome {
+    font-size: 150%;
+    text-align: center;
+    border-bottom: 2px solid #3a3a3a;
+}
+
