@@ -168,7 +168,7 @@ h2 {
 
 
 #about-us {
-    height: 600px;
+    height: 1200px;
     width: 100%;
     overflow: hidden;
     background-color: black;
@@ -210,6 +210,34 @@ h2 {
 #about-us hr {
     border-bottom: 1px solid #3a3a3a;
     width:55%;
+}
+
+.customer {
+    font-size: 150%;
+    text-align: center;
+}
+
+.customer-guy {
+    background-image: url('../images/guy.jpeg');
+    width: 250px;
+    height: 250px;
+    background-repeat: no-repeat;
+    margin: 40px 30px 0 200px;
+    float:left;
+    border-radius: 50%;
+    
+        
+}
+
+.customer-girl {
+    background-image: url('../images/girl.jpeg');
+    width: 250px;
+    height: 250px;
+    background-repeat: no-repeat;
+    margin: 40px 200px 0 30px;
+    float:right;
+    border-radius: 50%;
+
 }
 
 /* classes */
