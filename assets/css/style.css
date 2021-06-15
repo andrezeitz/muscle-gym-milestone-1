@@ -169,9 +169,36 @@ h2 {
     overflow: hidden;
 
 }
+
 .welcome {
     font-size: 150%;
     text-align: center;
     border-bottom: 2px solid #3a3a3a;
 }
 
+.left-side {
+    height: 250px;
+    font-size: 100%;
+    margin: 40px 30px 0 30px;
+    width:40%;
+    float:left;
+    box-sizing:border-box;
+}
+
+.right-side {
+    height: 250px;
+    font-size: 100%;
+    margin: 40px 30px 0 30px;
+    width:40%;
+    float:right;
+    box-sizing:border-box;
+}
+
+#about-us p {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#about-us hr {
+    border-bottom: 1px solid #3a3a3a;
+    width:55%;
