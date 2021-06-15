@@ -81,14 +81,16 @@ h2 {
     position: relative;
 }
 
+/* wrapper */
 
 .boxes { 
     height: 500px;
     font-size: 100%;
-    margin: 60px 30px 0 30px;
+    margin: 40px 30px 0 30px;
     width:42%;
     float:left;
     box-sizing:border-box;
+    
 }
 
 .boxes p {
@@ -105,7 +107,17 @@ h2 {
     margin-left: 80px;
 }
 
+/* footer */
 
-
-
-
+#footer {
+    display:table;
+    height: 150px;
+    width:100%;
+    background-color: black;
+  }
+  .footer-row {
+    display:table-row;
+  }
+  .footer-section {
+    display:table-cell;
+  }
