@@ -83,15 +83,17 @@ h2 {
 
 /* wrapper */
 
+#wrapper {
+    border-top: 3px solid #b80f0a;
+
+}
 
 .boxes { 
     height: 500px;
     font-size: 100%;
     margin: 40px 30px 0 30px;
     width:42%;
-    float:left;
-    box-sizing:border-box;
-    
+    float:left;   
 }
 
 .boxes hr {
@@ -170,12 +172,15 @@ h2 {
     width: 100%;
     overflow: hidden;
     background-color: black;
+    border-bottom: 3px solid #b80f0a;
+    border-top: 3px solid #b80f0a;
 
 }
 
 .welcome {
     font-size: 150%;
     text-align: center;
+    margin: 1%;
 }
 
 .left-side {
@@ -205,3 +210,18 @@ h2 {
 #about-us hr {
     border-bottom: 1px solid #3a3a3a;
     width:55%;
+}
+
+/* classes */
+
+#classes-price {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.welcomeclass {
+    text-align: center;
+    font-size: 250%;
+    margin: 1%;
+}
