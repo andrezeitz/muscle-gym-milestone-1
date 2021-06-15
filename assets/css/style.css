@@ -85,11 +85,15 @@ h2 {
 .boxes { 
     height: 500px;
     font-size: 100%;
-    margin: 80px 50px 0 50px;
-    width:40%;
+    margin: 60px 30px 0 30px;
+    width:42%;
     float:left;
     box-sizing:border-box;
-        
+}
+
+.boxes p {
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 #girl-workout {
@@ -100,6 +104,8 @@ h2 {
     float: right;
     margin-left: 80px;
 }
+
+
 
 
 
