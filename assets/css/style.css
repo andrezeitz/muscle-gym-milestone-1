@@ -82,39 +82,45 @@ h2 {
     position: relative;
 }
 
-/* wrapper */
-
-#wrapper {
-    border-top: 3px solid #b80f0a;
-
+#flex-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
 
-.boxes { 
+.flexrow {  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px 20px;
+}
+
+.background-color {
+    background-color: black;
+}
+
+.flexcol {
+    display: flex;
+    flex-direction: column;
+}
+
+.classbox {
+    border: 1px solid;
     height: 500px;
-    font-size: 100%;
-    margin: 40px 30px 0 30px;
-    width:42%;
-    float:left;   
+    width: 300px;
+    justify-content: space-around; 
+    display: flex;
+    flex-direction: column;
 }
 
-.boxes hr {
-    border-bottom: 1px solid #3a3a3a;
-    width:60%;
-}
-
-.boxes p {
-    padding-top: 15px;
-    padding-bottom: 15px;
-}
-
-#girl-workout {
-    background-image: url('../images/girl-workout1.jpeg');
+.smallimage {
     max-width: 100%;
-    background-repeat: no-repeat;
-    float: right;
-    margin-left: 80px;
-    position: relative;
-    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centeredtext {
+    text-align: center;
 }
 
 /* footer */
@@ -168,40 +174,6 @@ h2 {
 /* about us */
 
 
-#about-us {
-    height: 1200px;
-    width: 100%;
-    overflow: hidden;
-    background-color: black;
-    border-bottom: 3px solid #b80f0a;
-    border-top: 3px solid #b80f0a;
-
-}
-
-.welcome {
-    font-size: 150%;
-    text-align: center;
-    margin: 1%;
-}
-
-.left-side {
-    height: 250px;
-    font-size: 100%;
-    margin: 40px 30px 0 30px;
-    width:40%;
-    float:left;
-    box-sizing:border-box;
-}
-
-.right-side {
-    height: 250px;
-    font-size: 100%;
-    margin: 40px 30px 0 30px;
-    width:40%;
-    float:right;
-    box-sizing:border-box;
-}
-
 #about-us p {
     padding-top: 15px;
     padding-bottom: 15px;
@@ -218,37 +190,6 @@ h2 {
     text-align: center;
 }
 
-.customer-guy {
-    background-image: url('../images/guy.jpeg');
-    width: 250px;
-    height: 250px;
-    background-repeat: no-repeat;
-    margin: 40px 30px 0 100px;
-    float:left;
-    border-radius: 50%;
-    
-        
-}
-
-.customer-girl {
-    background-image: url('../images/girl.jpeg');
-    width: 250px;
-    height: 250px;
-    background-repeat: no-repeat;
-    margin: 40px 100px 0 30px;
-    float:right;
-    border-radius: 50%;
-
-}
-
-/* classes */
-
-#classes-price {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-}
-
 .welcomeclass {
     text-align: center;
     font-size: 250%;
@@ -257,18 +198,26 @@ h2 {
 
 /* contact form */
 
-#contact {
+#page-sections {
     height: 1000px;
     width: 100%;
     border-top: solid 2px black;
     padding: 4% 10%
 }
 
-.in-touch {
+.page-heading {
     font-size: 200%;
     padding-bottom: 10px;
 }
 
-.hello {
-    padding-bottom: 20px;
+
+@media screen and (max-width: 800px) {
+    .flexrow{ 
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .classbox {
+        display: flex;
+    }
 }
