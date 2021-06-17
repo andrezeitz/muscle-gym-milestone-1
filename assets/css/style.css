@@ -151,7 +151,7 @@ h3 {
 
 .textbox {
     border: 1px solid white;
-    height: 100px;
+    height: 200px;
     width: 250px;
 }
 
@@ -184,10 +184,19 @@ h3 {
     font-size: 150%;
 }
 
-.memberbox {
-    border: 1px solid white;
-    height: 200px;
-    width: 400px;
+.memberboxsilver {
+    border: 5px solid silver;
+    height: 300px;
+    width: 350px;
+    justify-content: space-around; 
+    display: flex;
+    flex-direction: column;
+}
+
+.memberboxgold {
+    border: 5px solid gold;
+    height: 300px;
+    width: 350px;
     justify-content: space-around; 
     display: flex;
     flex-direction: column;
@@ -204,9 +213,11 @@ h3 {
 
 .membertextsilver {
     color: silver;
+    padding-left: 10px;
 }
 .membertextgold {
-    color: gold
+    color: gold;
+    padding-left: 10px;
 }
 
 .membertextsilver h4 {
