@@ -33,15 +33,47 @@
                 </ul>
             </nav>
     </header>
-    <section id="page-sections">
-        <h2 class="page-heading">Get in touch</h2>
-        <p>Hello! Thank you for visiting our site!</p>
-        <p>Interested in joining one of our classes or book your personal trainer? Just
-            fill in your details below and we'll be in touch with all the details you need!</p>
-        <p>We love to hear from our community and we value your input. If you've any questions or feeback for
-            us, or there is a topic you'd like us to cover, just put the details in the
-            form below. We'll get back to you as soon as we can!</p>
-    </section>        
+
+    <!--container for page content-->
+    <div class="contact-flex-container contact-container">
+        <!--container containing intro text and form-->
+        <div id="contact-page">
+            <div>
+                <h2 class="page-heading">Get in touch</h2>
+                <p>Hello! Thank you for visiting our site!</p>
+                <p>Interested in joining one of our classes or book your personal trainer? Just
+                fill in your details below and we'll be in touch with all the details you need!</p>
+                <p>We love to hear from our community and we value your input. If you've any questions or feeback for
+                us, or there is a topic you'd like us to cover, just put the details in the
+                form below. We'll get back to you as soon as we can!</p>
+            </div>
+            <form action="form.succes.html">
+                <label for="first-name">First Name<span class="required"></span></label>
+                <input type="text" id="first-name" name="first-name" required>
+                <label for="last-name">Last Name<span class="required"></span></label>
+                <input type="text" id="last-name" name="last-name" required>
+                <label for="email">Email Adress<span class="required"></span></label>
+                <input type="email" id="email" name="email" required>
+                <label for="phone-number">Phone number (optional)</label>
+                <input type="tel" id="phone-number" name="phone-number" placeholder="in the format 07X XXXXXXX"
+                maxlength="11" pattern="[0]{7}[x]{x}[x-x]{x} [x-x]{x}">
+                <!--checkbox listing events-->
+                <p>Information you are interested in. Choose as many as you like.</p>
+                <label for="classes">Classes</label>
+                <input type="checkbox" id="classes" name="gym" value="classes" checked>
+                <label for="classes">Membership</label>
+                <input type="checkbox" id="classes" name="gym" value="membership" checked>
+                <label for="classes">General information</label>
+                <input type="checkbox" id="classes" name="gym" value="info" checked>
+                <label for="message">Do you have any other qustions for us?</label>
+                <textarea id="message" name="message" placeholder="Write here"></textarea>
+                <input type="submit" value="Send!">
+                </form> 
+            </div>          
+        </div>    
+    </div>     
+    
+    
     <footer>
         <div id="footer">
             <div class="footer-row">

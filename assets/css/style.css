@@ -29,7 +29,7 @@ h1 {
 h2 {
     font-family: Lato, sans-serif;
     text-transform: uppercase;
-    color: #b80f0a
+    color: #b80f0a;
 }
 
 h3 {
@@ -81,9 +81,9 @@ h3 {
 
 }
 
-/* flex containers to structure core site */
+/* flex containers to structure core html site */
 
-#flex-container {
+.flex-container {
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -136,7 +136,7 @@ h3 {
 
 .personal-trainers {
     background-color: black;
-    border-bottom: 4px solid #3a3a3a
+    border-bottom: 4px solid #3a3a3a;
 }
 
 .personal-trainers h2 {
@@ -283,16 +283,56 @@ h3 {
 
 /* contact form */
 
-#page-sections {
-    height: 1000px;
-    width: 100%;
-    border-top: solid 2px black;
-    padding: 4% 10%
-}
-
 .page-heading {
     font-size: 200%;
     padding-bottom: 10px;
+}
+
+.required {
+    color: #b80f0a;
+}
+
+.contact-flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 50px;
+}
+
+.contact-container label {
+    display: block;
+}
+
+.contact-container input:not([type="checkbox"]),
+.contact-container textarea {
+    display: block;
+    border: 1px solid black;
+    width: 100%;
+    padding: 5px;
+}
+
+.contact-container textarea {
+      height: 100px;
+}
+
+.contact-container form {
+    margin: 20px 50px;
+}
+
+.contact-container p {
+    padding-bottom: 10px;
+}
+
+.contact-container {
+   display: flex;
+   flex-direction: column;
+   padding: 10px; 
+   margin: 50px;
+}
+
+
+
+
 }
 
 /* media screen */
