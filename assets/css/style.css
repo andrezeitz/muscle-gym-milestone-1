@@ -29,10 +29,16 @@ h1 {
 h2 {
     font-family: Lato, sans-serif;
     text-transform: uppercase;
+    color: #b80f0a
+}
+
+h3 {
+    font-family: Lato, sans-serif;
+    text-transform: uppercase;
     color: #b80f0a;
 }
 
-/* navigation */
+/* navigation bar */
 
 #navigation {
     font-size: 120%;
@@ -64,13 +70,7 @@ h2 {
 }
 
 
-/* photo */
-
-#gym-section {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-}
+/* hero photo */
 
 #gym-pic {
     height: 600px;
@@ -81,6 +81,8 @@ h2 {
     background-size: cover;
     position: relative;
 }
+
+/* flex containers to structure core site */
 
 #flex-container {
     display: flex;
@@ -95,17 +97,77 @@ h2 {
     padding: 20px 20px;
 }
 
-.background-color {
-    background-color: black;
-}
-
 .flexcol {
     display: flex;
     flex-direction: column;
 }
 
+/* home page */
+
+#home-page p {
+    padding: 15px 0 10px 0;
+}
+
+#home-page h3 {
+    font-size: 150%;
+}
+
+/* about-us page */
+
+#about-us {
+    background-color: black;
+    border-top: 4px solid #b80f0a;
+}
+
+#about-us h2 {
+    text-align: center;
+    font-size: 250%;
+}
+
+#about-us h3 {
+    font-size:150%;
+}
+
+#about-us p {
+    color: white;
+    padding: 15px 0 10px 0;
+}
+
+/* personal trainers */ 
+
+.personal-trainers {
+    background-color: black;
+    border-bottom: 4px solid #b80f0a;
+}
+
+.personal-trainers h2 {
+    text-align: center;
+    font-size: 250%;
+}
+
+.textbox {
+    background-color: white;
+    height: 100px;
+    width: 250px;
+}
+
+/* classes and membership */ 
+
+#classes-membership {
+    background-color: black;
+}
+
+#classes-membership h2 {
+    font-size: 250%;
+    text-align: center;
+}
+
+#classes-membership p {
+    color: white;
+} 
+
 .classbox {
-    border: 1px solid;
+    border: 1px solid white;
     height: 500px;
     width: 300px;
     justify-content: space-around; 
@@ -113,6 +175,9 @@ h2 {
     flex-direction: column;
 }
 
+.classbox h3 {
+    font-size: 150%;
+}
 .smallimage {
     max-width: 100%;
     margin-left: auto;
@@ -171,31 +236,6 @@ h2 {
 
 
 
-/* about us */
-
-
-#about-us p {
-    padding-top: 15px;
-    padding-bottom: 15px;
-    color: white;
-}
-
-#about-us hr {
-    border-bottom: 1px solid #3a3a3a;
-    width:55%;
-}
-
-.customer {
-    font-size: 150%;
-    text-align: center;
-}
-
-.welcomeclass {
-    text-align: center;
-    font-size: 250%;
-    margin: 1%;
-}
-
 /* contact form */
 
 #page-sections {
@@ -210,6 +250,7 @@ h2 {
     padding-bottom: 10px;
 }
 
+/* media screen */
 
 @media screen and (max-width: 800px) {
     .flexrow{ 
