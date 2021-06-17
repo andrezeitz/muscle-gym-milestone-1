@@ -41,7 +41,6 @@ h3 {
 /* navigation bar */
 
 #navigation {
-    font-size: 120%;
     height: 70px;
 }
 
@@ -58,7 +57,7 @@ h3 {
 #navigation a {
     text-decoration: none;
     text-transform: uppercase;
-    color: inherit
+    color: inherit;
 }
 
 #navigation a:hover {
