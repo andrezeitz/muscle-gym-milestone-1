@@ -79,7 +79,7 @@ h3 {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
+
 }
 
 /* flex containers to structure core site */
@@ -137,7 +137,7 @@ h3 {
 
 .personal-trainers {
     background-color: black;
-    border-bottom: 4px solid #b80f0a;
+    border-bottom: 4px solid white
 }
 
 .personal-trainers h2 {
@@ -145,8 +145,12 @@ h3 {
     font-size: 250%;
 }
 
+.personal-trainers p {
+    color: white;
+}
+
 .textbox {
-    background-color: white;
+    border: 1px solid white;
     height: 100px;
     width: 250px;
 }
@@ -160,6 +164,7 @@ h3 {
 #classes-membership h2 {
     font-size: 250%;
     text-align: center;
+    padding-top: 15px;
 }
 
 #classes-membership p {
@@ -178,6 +183,15 @@ h3 {
 .classbox h3 {
     font-size: 150%;
 }
+
+.memberbox {
+    border: 1px solid white;
+    height: 200px;
+    width: 400px;
+    justify-content: space-around; 
+    display: flex;
+    flex-direction: column;
+}
 .smallimage {
     max-width: 100%;
     margin-left: auto;
@@ -186,6 +200,27 @@ h3 {
 
 .centeredtext {
     text-align: center;
+}
+
+.membertextsilver {
+    color: silver;
+}
+.membertextgold {
+    color: gold
+}
+
+.membertextsilver h4 {
+    font-size: 110%;
+    color: silver
+    font-weight: bold;
+    padding-top: 5px;
+}
+
+.membertextgold h4 {
+    font-size: 110%;
+    color: gold;
+    
+    padding-top: 5px;
 }
 
 /* footer */
