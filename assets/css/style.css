@@ -139,7 +139,7 @@ h3 {
     border-bottom: 4px solid #3a3a3a;
 }
 
-.personal-trainers h2 {
+.header-personal-trainers {
     text-align: center;
     font-size: 250%;
 }
@@ -313,19 +313,19 @@ h3 {
 }
 
 .contact-container form {
-    margin: 20px 50px;
+    padding: 30px 30px 0px 30px;
 }
 
 .contact-container p {
     padding-bottom: 10px;
 }
 
-/* .contact-container {
+.contact-container {
    display: flex;
    flex-direction: column;
    padding: 10px; 
-   margin: 50px;
-} */
+   margin: 50px 50px 0 50px;
+}
 
 .contact-container input:hover,
 .contact-container textarea:hover {
@@ -357,8 +357,6 @@ input[type="submit"] {
 	background-color: #b80f0a;
 	color: black;
 }
-
-/* google maps */
 
 
 
