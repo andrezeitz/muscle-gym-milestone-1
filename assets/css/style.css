@@ -288,10 +288,6 @@ h3 {
     padding-bottom: 10px;
 }
 
-.required {
-    color: #b80f0a;
-}
-
 .contact-flex-container {
     display: flex;
     flex-direction: column;
@@ -306,9 +302,10 @@ h3 {
 .contact-container input:not([type="checkbox"]),
 .contact-container textarea {
     display: block;
-    border: 1px solid black;
+    border: 2px solid #3a3a3a;
     width: 100%;
-    padding: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
 .contact-container textarea {
@@ -323,12 +320,47 @@ h3 {
     padding-bottom: 10px;
 }
 
-.contact-container {
+/* .contact-container {
    display: flex;
    flex-direction: column;
    padding: 10px; 
    margin: 50px;
+} */
+
+.contact-container input:hover,
+.contact-container textarea:hover {
+	border-color: #b80f0a;
 }
+
+.contact-container input[type="submit"] {
+	border: none;
+	margin: 20px 0;
+}
+
+input[type="submit"] {
+	text-transform: uppercase;
+	background-color: black;
+	color: #b80f0a ;
+	border: none;
+	font-weight: 800;
+    height: 50px;
+}
+
+.contact-container input[type="submit"] {
+    width: 35%;
+    margin: 1.5rem auto;
+	}
+
+.contact-container input[type="submit"]:hover,
+.contact-container input[type="submit"]:focus,
+.contact-container input[type="submit"]:active {
+	background-color: #b80f0a;
+	color: black;
+}
+
+/* google maps */
+
+
 
 /* media screen */
 
