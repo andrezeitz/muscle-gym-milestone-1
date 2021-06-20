@@ -362,6 +362,21 @@ input[type="submit"] {
 
 /* media screen */
 
+/* larger mobile */
+
+@media screen and (min-width:480px) {
+    .contact-container form {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .navigation ul {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-evenly;
+	}
+}
+
 @media screen and (max-width: 800px) {
     .flexrow{ 
         display: flex;
@@ -370,5 +385,7 @@ input[type="submit"] {
     }
     .classbox {
         display: flex;
+        flex-direction: column;
+        justify-content: center;
     }
 }
