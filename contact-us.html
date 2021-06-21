@@ -8,32 +8,40 @@
     <meta name="description" content="Muscle Gym for active people in Stockholm, Sweden">
     <meta name="keywords" content="gym, personal trainer, stockholm, sweden">
 
+    <script src="script.js" defer></script>
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Muscle Gym</title>
 </head>
 <body>
+    <!--container header-->
     <header>
-        <a href="index.html">
-            <h1 id="logo">Muscle Gym <i class="fas fa-dumbbell"></i></h1>
+        <nav class="navbar">
+            <a href="index.html">
+                <h1 class="logo">Muscle Gym <i class="fas fa-dumbbell"></i></h1>
             </a>
-            <nav>
-                <ul id="navigation">
+            <a href="#" class="toggle-button">
+                <span class="bar"></span>
+                <span class="bar"></span>    
+                <span class="bar"></span>        
+            </a>
+            <div class="navbar-links">
+                <ul>
                     <li>
-                        <a href="contact-us.html" class="active">Contact us</a>                          
+                        <a href="index.html">Home</a>                        
                     </li>
                     <li>
-                        <a href="#classes-price">Classes & Price</a>          
+                        <a href="about-us">About us</a>
                     </li>
                     <li>
-                        <a href="#about-us">About us</a>     
+                        <a href="classes-membership">Classes & Membership</a>  
                     </li>
                     <li>
-                        <a href="index.html">Home</a>                         
+                        <a href="contact-us.html" class="active">Contact us</a>                       
                     </li>
                 </ul>
-            </nav>
+            </div>    
+        </nav>
     </header>
-
     <!--container for page content-->
     <div class="contact-flex-container contact-container">
         <!--container containing intro text and form-->
@@ -42,7 +50,7 @@
                 <h2 class="page-heading">Get in touch</h2>
                 <p>Hello! Thank you for visiting our site!</p>
                 <p>Interested in joining one of our classes or book your personal trainer? Just
-                fill in your details below and we'll be in touch with all the details you need!</p>
+                fill in your details below and we'll be in touch with all the information you need!</p>
                 <p>We love to hear from our community and we value your input. If you've any questions or feeback for
                 us, or there is a topic you'd like us to cover, just put the details in the
                 form below. We'll get back to you as soon as we can!</p>
@@ -50,15 +58,15 @@
             <form action="form.succes.html">
                 <!--first and last name-->
                 <label for="first-name">First Name<span class="required"></span></label>
-                <input type="text" id="first-name" name="first-name" placeholder="Your first name" required>
+                <input type="text" id="first-name" name="first-name" required>
                 <label for="last-name">Last Name<span class="required"></span></label>
-                <input type="text" id="last-name" name="last-name" placeholder="Your last name" required>
+                <input type="text" id="last-name" name="last-name" required>
                 <!--email-->
                 <label for="email">Email Adress<span class="required"></span></label>
-                <input type="email" id="email" name="email" placeholder="Your email" required>
+                <input type="email" id="email" name="email" required>
                 <!--phone number not required-->
                 <label for="phone-number">Phone Number (optional)</label>
-                <input type="tel" id="phone-number" name="phone-number" placeholder="Your phone number"
+                <input type="tel" id="phone-number" name="phone-number" placeholder="in the format 07x xxx xx xx"
                 maxlength="11">
                 <!--check boxs-->
                 <p>Information you are interested in. Choose as many as you like.</p>
@@ -70,15 +78,15 @@
                 <input type="checkbox" id="classes" name="gym" value="info" checked>
                 <!--message area-->
                 <label for="message">Do you have any other qustions for us?</label>
-                <textarea id="message" name="message" placeholder="Your question"></textarea>
+                <textarea id="message" name="message" placeholder="Write here"></textarea>
                 <!--submit buttom-->
                 <input type="submit" value="Send!">
             </form>         
         </div>    
     </div>
-    <!--google map generator (fake location)-->
-    <iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=1000&amp;height=400&amp;hl=en&amp;q=Vasastan%2011%20Stockholm+(Muscle%20Gym)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe> <a href='https://wohnungsverwaltungen.com/'>https://Wohnungsverwaltungen.com</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=f9999fdf13227a339c06d98034276793f02f38d3'></script>
-
+    <!--fake map for location-->
+    <iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=Vasagatan%2011%20Stockholm+(Muscle%20Gym)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe> <a href='https://wohnungsverwaltungen.com/'>https://Wohnungsverwaltungen.com</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=5f11501d2f63e3555bfa2ca0e5847e589d856eef'></script>
+    <!--container footer-->    
     <footer>
         <div id="footer">
             <div class="footer-row">

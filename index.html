@@ -8,32 +8,43 @@
     <meta name="description" content="Muscle Gym for active people in Stockholm, Sweden">
     <meta name="keywords" content="gym, personal trainer, stockholm, sweden">
 
+    <script src="script.js" defer></script>
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Muscle Gym</title>
 </head>
-<!--container header-->
 <body>
+    <!--container header-->
    <header>
-        <a href="index.html">
-            <h1 id="logo">Muscle Gym <i class="fas fa-dumbbell"></i></h1>
-        </a>
-        <nav>
-            <ul id="navigation">
-                <li>
-                    <a href="contact-us.html">Contact us</a>                          
-                </li>
-                <li>
-                    <a href="#classes-membership">Classes & Membership</a>          
-                </li>
-                <li>
-                    <a href="#about-us">About us</a>     
-                </li>
-                <li>
-                    <a href="index.html" class="active">Home</a>                         
-                </li>
-            </ul>
+        <nav class="navbar">
+            <a href="index.html">
+                <h1 class="logo">Muscle Gym <i class="fas fa-dumbbell"></i></h1>
+            </a>
+            <a href="#" class="toggle-button">
+                <span class="bar"></span>
+                <span class="bar"></span>    
+                <span class="bar"></span>        
+            </a>
+            <div class="navbar-links">
+                <ul>
+                    <li>
+                        <a href="index.html" class="active">Home</a>                        
+                    </li>
+                    <li>
+                        <a href="#about-us">About us</a>
+                    </li>
+                    <li>
+                        <a href="#classes-membership">Classes & Membership</a>  
+                    </li>
+                    <li>
+                        <a href="contact-us.html">Contact us</a>                       
+                    </li>
+                </ul>
+            </div>    
         </nav>
     </header>
+
+
+
     <!--container for page content-->
     <div id="flex-container">
         <div id="gym-pic">
@@ -63,12 +74,10 @@
                     </p>
                 </div>
             </div> 
-        
-           
             <div>
-                <img alt="girl pointing left" src="/assets/images/girl-workout2.jpeg"/>
+                <img alt="girl pointing left" src="/assets/images/girl-workout2.jpeg">
             </div> 
-        </div>        
+        </div>
         <!--container about us-->
         <div id="about-us">
                 <h2 class="header-about-us">About us</h2>
@@ -105,7 +114,8 @@
         </div>
         <!--container personal trainers-->
         <div class="personal-trainers">
-                <h2 class="header-personal-trainers">Meet our personal trainers</h2>
+                <div class="customer"><h2>Meet our personal trainers</h2>
+                </div>
             <div class="flexrow">
                 <!--guy personal trainer-->
                 <div>
@@ -125,7 +135,6 @@
                 </div>    
             </div>
         </div>
-    
         <!--container classes and membership-->
         <div id="classes-membership">
             <h2>Classes & Membership</h2>
@@ -148,7 +157,7 @@
                     <p class="centeredtext">A Zumba class offers a series of energetic dance routines that provide a great cardio workout by mixing low intensity and high intensity moves for an interval-style, calorie burning, dance fitness party! The biggest key to joining a Zumba class is to not be worried about your dance moves, because everyone else is on the same boat! </p>
                     <img class="smallimage" src="/assets/images/zumba.jpeg">
                 </div>
-            </div>  
+            </div>
             <!--container membership-->
             <div class="flexrow">
                 <div class="memberboxsilver">
@@ -189,7 +198,6 @@
             </div>    
         </div>
     </div>
-
     <!--container footer-->
     <footer>
         <div id="footer">
@@ -222,5 +230,6 @@
         </div>     
     </footer>
     <script src="https://kit.fontawesome.com/e4388115d8.js" crossorigin="anonymous"></script>
+
 </body>
 </html>

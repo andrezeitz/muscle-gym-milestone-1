@@ -5,19 +5,21 @@
     margin: 0;
     padding: 0;
     border: none;
+    box-sizing: border-box;
 }
 
 body {
     font-family: 'Roboto', sans-serif;
     font-weight: 250;
-    color: #3a3a33;
+    color: #3a3a3a;
 }
 
 /* h1, h2 and logo */
-#logo {
+.logo {
     float: left;
     margin-left: 20px;
     font-size: 300%;
+    list-style-type: none;
 }
 
 h1 {
@@ -38,34 +40,65 @@ h3 {
     color: #b80f0a;
 }
 
+
 /* navigation bar */
 
-#navigation {
-    height: 70px;
+.navbar {
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: white;
 }
 
-#logo, #navigation {
-    line-height: 70px;
+.brand-title {
+    font-size: 1.5rem;
+    margin: .5rem;
 }
 
-#navigation li {
-    float: right;
-    list-style-type: none;
-    margin-right: 20px;
+.navbar-links {
+    height: 100%;
 }
 
-#navigation a {
+.navbar-links ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-links li {
+    list-style: none;
+}
+
+.navbar-links li a {
+    display: block;
     text-decoration: none;
+    color: white;
+    padding: 1rem;
     text-transform: uppercase;
-    color: inherit;
 }
 
-#navigation a:hover {
-    color: #b80f0a;
+.navbar-links li:hover {
+    background-color: #b80f0a
 }
 
-.active {
-    border-bottom: 2px solid #b80f0a;
+.toggle-button {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 21px;
+}
+
+.toggle-button .bar {
+    height: 3px;
+    width: 100%;
+    background-color: white;
+    border-radius: 10px;
 }
 
 
@@ -139,7 +172,12 @@ h3 {
     border-bottom: 4px solid #3a3a3a;
 }
 
-.header-personal-trainers {
+#classes-membership h2 {
+    font-size: 250%;
+    text-align: center;
+}
+
+.personal-trainers h2 {
     text-align: center;
     font-size: 250%;
 }
@@ -221,7 +259,7 @@ h3 {
 
 .membertextsilver h4 {
     font-size: 110%;
-    color: silver
+    color: silver;
     font-weight: bold;
     padding-top: 5px;
 }
@@ -362,7 +400,6 @@ input[type="submit"] {
 
 /* media screen */
 
-/* larger mobile */
 
 @media screen and (min-width:480px) {
     .contact-container form {
@@ -377,15 +414,39 @@ input[type="submit"] {
 	}
 }
 
-@media screen and (max-width: 800px) {
-    .flexrow{ 
-        display: flex;
+/* media screen for nav-bar and burger menu */
+
+@media (max-width: 900px) {
+    .navbar {
         flex-direction: column;
-        justify-content: center;
+        align-items: flex-start;
     }
-    .classbox {
+
+    .toggle-button {
         display: flex;
+    }
+
+    .navbar-links {
+        display: none;
+        width: 100%;
+    }
+
+    .navbar-links ul {
+        width: 100%;
         flex-direction: column;
-        justify-content: center;
+    }
+
+    .navbar-links ul li {
+        text-align: center;
+    }
+
+    .navbar-links ul li a {
+        padding: .5rem 1rem;
+    }
+
+    .navbar-links.active {
+        display: flex;
     }
 }
+
+        
