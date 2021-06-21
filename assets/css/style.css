@@ -122,19 +122,29 @@ h3 {
     flex-direction: column;
 }
 
-.flexrow {  
+/* .flexrow {  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px 20px;
+} */
+
+/* home page */
+
+.flexrow-home {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     padding: 20px 20px;
 }
 
-.flexcol {
-    display: flex;
-    flex-direction: column;
+.text-left-side {
+    width: 48%;
 }
 
-/* home page */
+.picture-right-side {
+    width: 48%;
+}
 
 #home-page p {
     padding: 15px 0 10px 0;
@@ -145,6 +155,13 @@ h3 {
 }
 
 /* about-us page */
+
+.flexrow-about {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px 20px;
+}
 
 #about-us {
     background-color: black;
@@ -165,14 +182,29 @@ h3 {
     padding: 15px 0 10px 0;
 }
 
+.about-right-side {
+    width: 48%;
+}
+
+.about-left-side {
+    width: 48%;
+}
+
 /* personal trainers */ 
+
+.flexrow-pt {  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px 20px;
+}
 
 .personal-trainers {
     background-color: black;
     border-bottom: 4px solid #3a3a3a;
 }
 
-#classes-membership h2 {
+.header-personal-trainers {
     font-size: 250%;
     text-align: center;
 }
@@ -196,6 +228,13 @@ h3 {
 
 #classes-membership {
     background-color: black;
+}
+
+.flexrow-classes, .flexrow-member {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px 20px;
 }
 
 #classes-membership h2 {
@@ -224,7 +263,7 @@ h3 {
 .memberboxsilver {
     border: 5px solid silver;
     height: 300px;
-    width: 350px;
+    width: 400px;
     justify-content: space-around; 
     display: flex;
     flex-direction: column;
@@ -233,7 +272,7 @@ h3 {
 .memberboxgold {
     border: 5px solid gold;
     height: 300px;
-    width: 350px;
+    width: 400px;
     justify-content: space-around; 
     display: flex;
     flex-direction: column;
@@ -398,21 +437,77 @@ input[type="submit"] {
 
 
 
-/* media screen */
+/* ---------media screens-------- */
 
+/* home section */
 
-@media screen and (min-width:480px) {
-    .contact-container form {
-        width: 90%;
-        margin: 0 auto;
+@media (max-width:820px) {
+    .flexrow-home {
+        flex-direction: column;
+        align-items: center;
     }
 
-    .navigation ul {
-		display: flex;
-		flex-direction: row;
-		justify-content: space-evenly;
-	}
+    .text-left-side {
+        width: 90%;
+    }
+
+    .picture-right-side {
+        width: auto;
+    }
+
+    .flexrow-classes {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .classbox {
+        height: 600px;
+        width: 400px;
+    }
+
+    .flexrow-member {
+        flex-direction: column;
+        align-items: center;
+    }
 }
+
+/* about us section */
+
+/* .flexrow-about {
+    flex-direction: colum;
+    align-items: center;
+}
+
+.about-left-side, .about-right-side {
+    width: 90%;
+} */
+
+/* @media (max-width:810px) {
+    .flexrow-about {
+        flex-direction: colum;
+        align-items: center;
+    }
+
+    .about-left-side, .about-right-side {
+        width: 90%;
+    }
+} */
+
+/* personal trainer sections */
+
+@media (max-width:500px) {
+    .flexrow-pt {
+    flex-direction: colum;
+    align-items: center;
+    }
+
+    .left-side-guy, .right-side-girl{
+    width: 90%;
+    }
+}    
+
+
+
 
 /* media screen for nav-bar and burger menu */
 
@@ -448,5 +543,3 @@ input[type="submit"] {
         display: flex;
     }
 }
-
-        
