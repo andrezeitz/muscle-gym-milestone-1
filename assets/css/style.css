@@ -155,9 +155,9 @@ h3 {
 }
 
 .picture-right-side {
-    max-width: 100%;
+    background: url('../images/workout-girl-big1.jpg');
     height: auto;
-    display: flex;
+    background-repeat: no-repeat;
 }
 
 /* about-us page */
@@ -217,7 +217,7 @@ h3 {
 
 .textbox {
     border: 1px solid #3a3a3a;
-    height: 250px;
+    height: 260px;
     width: 250px;
 }
 
@@ -453,31 +453,31 @@ input[type="submit"] {
 
 /* tablet size */
 
-@media (max-width:1060px) {
+@media (max-width:1200px) {
     .flexrow-home {
         flex-direction: column;
         align-items: center;
     }
 
     .text-left-side {
-        width: 85%;
-    }
+        width: 90%;
+}
 
     .picture-right-side {
-        height: auto;
-        width: auto;
+        width: 600px;
+        height: 400px;
     }
-}    
+
+
 
 @media (max-width:820px) {
-   
     .flexrow-about {
         flex-direction: column;
         align-items: center;
     }
 
     .about-left-side, .about-right-side {
-        width: 85%;
+        width: 90%;
     }
 
     .flexrow-classes {
@@ -501,6 +501,13 @@ input[type="submit"] {
     }
 }
 
+@media (max-width:700px) {
+    .picture-right-side {
+        background-image: url('../images/girl-workout2.jpeg');
+        align-items: center;
+        width: 400px;
+        height: 400px;
+    }
 
 /* personal trainer sections */
 
