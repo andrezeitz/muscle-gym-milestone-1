@@ -223,7 +223,12 @@ h3 {
 
 #classes-membership p {
     color: white;
-} 
+}
+
+.picture-guy, .picture-girl {
+    border-radius: 50%;
+    padding: 1rem 0;
+}
 
 .classbox {
     border: 1px solid #3a3a3a;
@@ -482,7 +487,25 @@ input[type="submit"] {
         flex-direction: column;
         align-items: center;
         }
-}    
+}
+
+@media (max-width:440px) {
+    .classbox {
+        height: auto;
+        width: 300px;
+    }
+
+    .memberboxsilver, .memberboxgold {
+        height: 300px;
+        width: 300px;
+    }
+    
+    .logo {
+        margin-left: 5px;
+        font-size: 250%;
+    }    
+}
+
 
 
 
