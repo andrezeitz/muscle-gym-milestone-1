@@ -108,6 +108,12 @@ h3 {
     border-radius: 10px;
 }
 
+.active {
+    background-color: #b80f0a;
+}
+
+
+
 
 /* hero photo */
 
