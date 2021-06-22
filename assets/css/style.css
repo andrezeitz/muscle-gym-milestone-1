@@ -216,9 +216,20 @@ h3 {
     color: white;
 }
 
-.picture-guy, .picture-girl {
+.picture-guy {
+    background:url('../images/guy.jpeg');   
+    height: 250px;
+    width: 250px;
     border-radius: 50%;
-    padding: 1rem 0;
+    margin: 1rem 0;
+}
+
+.picture-girl {
+    background:url('../images/girl.jpeg');
+    height: 250px;
+    width: 250px;   
+    border-radius: 50%;
+    margin: 1rem 0;
 }
 
 .textbox {
@@ -251,6 +262,14 @@ h3 {
     display: flex;
     flex-direction: column;
 }
+
+.spinning-image {
+    background: url('../images/spinning.jpeg');
+    height: auto;
+    width: 100%;
+}
+
+/* membership section */
 
 .memberboxsilver {
     border: 5px solid silver;
@@ -467,12 +486,48 @@ input[type="submit"] {
 
     .text-left-side {
         width: 90%;
-}
+    }
 
     .picture-right-side {
         width: 600px;
         height: 400px;
     }
+}
+
+/* media screen for nav-bar and burger menu */
+
+@media (max-width: 900px) {
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .toggle-button {
+        display: flex;
+    }
+
+    .navbar-links {
+        display: none;
+        width: 100%;
+    }
+
+    .navbar-links ul {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .navbar-links ul li {
+        text-align: center;
+    }
+
+    .navbar-links ul li a {
+        padding: .5rem 1rem;
+    }
+
+    .navbar-links.active {
+        display: flex;
+    }
+}
 
 
 
@@ -549,43 +604,3 @@ input[type="submit"] {
         top: 0.9rem;
     }
 }
-
-
-
-
-/* media screen for nav-bar and burger menu */
-
-@media (max-width: 900px) {
-    .navbar {
-        flex-direction: column;
-        align-items: flex-start;
-    }
-
-    .toggle-button {
-        display: flex;
-    }
-
-    .navbar-links {
-        display: none;
-        width: 100%;
-    }
-
-    .navbar-links ul {
-        width: 100%;
-        flex-direction: column;
-    }
-
-    .navbar-links ul li {
-        text-align: center;
-    }
-
-    .navbar-links ul li a {
-        padding: .5rem 1rem;
-    }
-
-    .navbar-links.active {
-        display: flex;
-    }
-}
-
-
