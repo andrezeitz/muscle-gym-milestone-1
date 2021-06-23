@@ -264,11 +264,15 @@ h3 {
 }
 
 .spinning-image {
-    background: url('../images/spinning.jpeg');
+    background-image: url('../images/spinning.jpeg');
     height: auto;
     width: 100%;
 }
 
+.circuit-image, .zumba-image {
+    height: auto;
+    width: 100%;
+}
 /* membership section */
 
 .memberboxsilver {
