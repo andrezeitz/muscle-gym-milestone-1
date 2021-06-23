@@ -263,12 +263,6 @@ h3 {
     flex-direction: column;
 }
 
-/* .spinning-image {
-    background-image: url('../images/spinning.jpeg');
-    height: auto;
-    width: 100%;
-} */
-
 .spinning-image, .circuit-image, .zumba-image {
     height: auto;
     width: 100%;
