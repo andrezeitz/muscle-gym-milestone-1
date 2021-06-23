@@ -66,6 +66,14 @@ I used website wireframe.cc to creat a wireframe.
 ![5-Classes-and-Price-Mobile](https://user-images.githubusercontent.com/85236391/121511301-c59e1780-c9e8-11eb-85e5-256378b9426f.png)
 ![6-About-us-and-Contact-Mobile](https://user-images.githubusercontent.com/85236391/121511303-c59e1780-c9e8-11eb-8c15-693a28d8dbfb.png)
 
+## Changes to Wireframes Design as the Project Progressed
+As the wireframes are just basic sketches for each page I did some changes over the course of the project.
+
+* Took away the "discount box" that was supposed to be on the hero cover photo.
+* Made a hamburger menu for tablet and mobile instead of having the nav-bar under the logo.
+* Deleted the location map that was supposed to be on the home page and have it only on the contact us page.
+
+
 ## Design
 
 ### Colors
@@ -80,7 +88,6 @@ Main colour used in project:
 * I used image from
 
 ## Features
-The website consists of 6 pages. 4 pages from a navigation menu. One is a 404 error page and one is a submission confirmation page for a form.
 
 The website has below features:
 
@@ -89,7 +96,7 @@ The website has below features:
 * Navigation scheme:
 ##### On the right side is four links. It contains:
 * Home
-* Classes and Price
+* Classes and Membership
 * About us
 * Contact us
 
@@ -98,6 +105,7 @@ The website has below features:
 ### Languages
 * HTML
 * CSS
+* JavaScript for burger menu
 
 ### Frameworks & Tools
 * GitHub
@@ -105,8 +113,17 @@ The website has below features:
 * Google Fonts
 * Font Awsome
 * Flexbox
+* W3C HTML Validator
+* H3C CSS Validator
+* Am I responsive
 
 ## Testing
 
+### Code Validation
+The W3C Markup Validation Service was used to validate the HTML on every page of the project. On the first validation some issues were flagged and these were resolved as explained below:
+
 ## Issues found during site development
 Problem to get the site to size good after width 400px, photos will not shrink down to the correct size.
+
+## Deployment
+The site was developed on Gitpod, using GitHub for version control and hosting the repository and final site. The repository for this project, and the associated workspace, was created from the Code Institute template.
