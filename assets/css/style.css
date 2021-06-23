@@ -234,7 +234,7 @@ h3 {
 
 .textbox {
     border: 1px solid #3a3a3a;
-    height: 260px;
+    height: 250px;
     width: 250px;
 }
 
@@ -560,6 +560,31 @@ input[type="submit"] {
     .memberboxsilver {
         margin-bottom: 10px;
     }
+
+    .footer-row {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .contact-us, .social, .opening {
+        padding: 0;
+        width: 250px;
+    }
+
+    .footer-row h2 {
+        font-size: 120%;
+        padding: 3px 0;
+    }
+
+    .footer-row p {
+        font-size: 100%;
+        padding: 3px 0;
+    }
+
+    .footer-row i {
+        font-size: 120%;
+    }
 }
 
 @media (max-width:700px) {
@@ -593,7 +618,7 @@ input[type="submit"] {
     .logo {
         margin-left: 5px;
         font-size: 230%;
-        padding-bottom: 5px;
+        padding-bottom: 0px;
     }
     
     .flexrow-home h3 {
@@ -601,6 +626,6 @@ input[type="submit"] {
     }
 
     .toggle-button {
-        top: 0.9rem;
+        top: 0.7rem;
     }
 }
