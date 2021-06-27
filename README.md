@@ -152,3 +152,12 @@ Problem to get the site to size good after width 400px, photos will not shrink d
 
 ## Deployment
 The site was developed on Gitpod, using GitHub for version control and hosting the repository and final site. The repository for this project, and the associated workspace, was created from the Code Institute template.
+
+## Credits
+
+### Code I use
+* I learned how to make a burger menu from "https://www.w3schools.com/howto/howto_js_topnav_responsive.asp"
+* I took some information about the hero-image from "https://www.w3schools.com/howto/howto_css_hero_image.asp"
+* I learned how to make the nav-bar icons to smooth scroll from "https://www.w3schools.com/howto/howto_css_smooth_scroll.asp"
+* I use flexbox for all the box structure on the site. I learned it from "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+* 
