@@ -149,6 +149,11 @@ The contact us page is just a simple contact form so the customer easy can get i
 ### Code Validation
 The W3C Markup Validation Service was used to validate the HTML on every page of the project. On the first validation some issues were flagged and these were resolved as explained below:
 
+### Different Screen Size
+I was using Chrome as my main browser and the website have been tested on my iPhone 11 Pro and Macbook Pro 13¨.
+
+I also tested the website inside of Chrome Dev Tools. With different px sizes to make sure the website will work on all different devices.
+
 ## Issues found during site development
 Problem to get the site to size good after width 400px, photos will not shrink down to the correct size.
 
