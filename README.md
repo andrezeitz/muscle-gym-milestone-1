@@ -132,7 +132,7 @@ The contact us page is just a simple contact form so the customer easy can get i
 ### Languages
 * HTML
 * CSS
-* JavaScript for burger menu
+* JavaScript for burger menu (Credits for the code in the credits section)
 
 ### Frameworks & Tools
 * GitHub
@@ -143,6 +143,7 @@ The contact us page is just a simple contact form so the customer easy can get i
 * W3C HTML Validator
 * H3C CSS Validator
 * Am I responsive
+* WebAim
 
 ## Testing
 
