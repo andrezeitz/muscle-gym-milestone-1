@@ -3,7 +3,9 @@
 Muscle Gym is a website for anyone that is looking for a really clean and modern gym in central Stockholm. The gym just opened it doors to the public and want with this website to try to get more customers to find it. On this website, you can find all information you need to become a new member.
 
 This website can not be used as a template for a business since its a project for educational purposes.
-This website will be build with HTML and CSS only.
+This website will be build with HTML and CSS.
+<img width="1026" alt="Skärmavbild 2021-06-27 kl  12 47 55" src="https://user-images.githubusercontent.com/85236391/123541687-08305580-d746-11eb-9de6-8fa27c2459ce.png">
+
 
 
 ## Project Goals
