@@ -78,27 +78,52 @@ As the wireframes are just basic sketches for each page I did some changes over 
 
 ### Colors
 Main colour used in project:
-* background color: #fff
-* font color: #3a3a3a
+* Background color: #fff and #000000
+* Font colors: #3a3a3a, #fff and #b8100a
+
+#### Contrast Checker
+
+I use #b8100a for large text that is good contrast to the background.
+![Skärmavbild 2021-06-24 kl  11 58 53](https://user-images.githubusercontent.com/85236391/123540534-c43a5200-d73f-11eb-8158-7f9bc2b52633.png)
+
 
 ### Fonts
 * As a main font I used Cairo and Rubik, and as backup font sans-serif
 
 ### Images
-* I used image from
+* I used image from google.com and pexels.com
 
 ## Features
 
 The website has below features:
 
 ### Navigation bar
-* Navigation bar is visible on the top of each website.
+* Navigation bar is visible on the top of each website for big screens.
+* Navigation bar will turn to a burger menu on smaller screen. (Tried to get the menu under the logo but since I have 4 links it was to tight so I decided to get a burger menu instead)
 * Navigation scheme:
-##### On the right side is four links. It contains:
+##### On the right side is four links.(Burger menu for smaller screen) It contains:
 * Home
-* Classes and Membership
 * About us
+* Classes and Membership
 * Contact us
+
+### Home
+The home page contains a big hero picture with full width for all screens.
+After the picture there is a lot of information about the gym. The topics are weight training, general fitness and functional training.
+
+### About us
+On this side we go in little bit futher on our story for the gym, what we do and what our customers can expect from the gym.
+It cointains four sub headings. Our story, Customer service, What we do and Culture.
+After that we show our personal trainers with some informations about them. 
+
+### Classes and Membership
+Classes and Membership side start with a presentation of our three popular classes. They are spinning, circuit traning and zumba.
+All classes have some information on what we do and what the customer can expect from the class.
+Finnaly we have the membership section where the customer have two choises. Either they can sign up for the silver membership or the gold membership.
+Both membership show information on what you get and prices.
+
+### Contact us
+The contact us page is just a simple contact form so the customer easy can get in contact with the gym. It cointans first name, last name, email, phone number that is optional. After that we have 3 check boxes that can be clicked on what the customer want more information about. They are "classes, personal trainers and general informaton". Last is the text box where the customer can write all there questions inside.
 
 ## Technologies Used
 
