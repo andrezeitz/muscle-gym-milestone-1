@@ -3,7 +3,9 @@
 Muscle Gym is a website for anyone that is looking for a really clean and modern gym in central Stockholm. The gym just opened it doors to the public and want with this website to try to get more customers to find it. On this website, you can find all information you need to become a new member.
 
 This website can not be used as a template for a business since its a project for educational purposes.
-This website will be build with HTML and CSS only.
+This website will be build with HTML and CSS.
+<img width="1026" alt="Skärmavbild 2021-06-27 kl  12 47 55" src="https://user-images.githubusercontent.com/85236391/123541687-08305580-d746-11eb-9de6-8fa27c2459ce.png">
+
 
 
 ## Project Goals
@@ -78,34 +80,59 @@ As the wireframes are just basic sketches for each page I did some changes over 
 
 ### Colors
 Main colour used in project:
-* background color: #fff
-* font color: #3a3a3a
+* Background color: #fff and #000000
+* Font colors: #3a3a3a, #fff and #b8100a
+
+#### Contrast Checker
+
+I use #b8100a for large text that is good contrast to the background.
+![Skärmavbild 2021-06-24 kl  11 58 53](https://user-images.githubusercontent.com/85236391/123540534-c43a5200-d73f-11eb-8158-7f9bc2b52633.png)
+
 
 ### Fonts
 * As a main font I used Cairo and Rubik, and as backup font sans-serif
 
 ### Images
-* I used image from
+* I used image from google.com and pexels.com
 
 ## Features
 
 The website has below features:
 
 ### Navigation bar
-* Navigation bar is visible on the top of each website.
+* Navigation bar is visible on the top of each website for big screens.
+* Navigation bar will turn to a burger menu on smaller screen. (Tried to get the menu under the logo but since I have 4 links it was to tight so I decided to get a burger menu instead)
 * Navigation scheme:
-##### On the right side is four links. It contains:
+##### On the right side is four links.(Burger menu for smaller screen) It contains:
 * Home
-* Classes and Membership
 * About us
+* Classes and Membership
 * Contact us
+
+### Home
+The home page contains a big hero picture with full width for all screens.
+After the picture there is a lot of information about the gym. The topics are weight training, general fitness and functional training.
+
+### About us
+On this side we go in little bit futher on our story for the gym, what we do and what our customers can expect from the gym.
+It cointains four sub headings. Our story, Customer service, What we do and Culture.
+After that we show our personal trainers with some informations about them. 
+
+### Classes and Membership
+Classes and Membership side start with a presentation of our three popular classes. They are spinning, circuit traning and zumba.
+All classes have some information on what we do and what the customer can expect from the class.
+Finnaly we have the membership section where the customer have two choises. Either they can sign up for the silver membership or the gold membership.
+Both membership show information on what you get and prices.
+
+### Contact us
+The contact us page is just a simple contact form so the customer easy can get in contact with the gym. It cointans first name, last name, email, phone number that is optional. After that we have 3 check boxes that can be clicked on what the customer want more information about. They are "classes, personal trainers and general informaton". Last is the text box where the customer can write all there questions inside.
 
 ## Technologies Used
 
 ### Languages
 * HTML
 * CSS
-* JavaScript for burger menu
+* JavaScript for burger menu (Credits for the code in the credits section)
 
 ### Frameworks & Tools
 * GitHub
@@ -116,14 +143,29 @@ The website has below features:
 * W3C HTML Validator
 * H3C CSS Validator
 * Am I responsive
+* WebAim
 
 ## Testing
 
 ### Code Validation
 The W3C Markup Validation Service was used to validate the HTML on every page of the project. On the first validation some issues were flagged and these were resolved as explained below:
 
+### Different Screen Size
+I was using Chrome as my main browser and the website have been tested on my iPhone 11 Pro and Macbook Pro 13¨.
+
+I also tested the website inside of Chrome Dev Tools. With different px sizes to make sure the website will work on all different devices.
+
 ## Issues found during site development
 Problem to get the site to size good after width 400px, photos will not shrink down to the correct size.
 
 ## Deployment
 The site was developed on Gitpod, using GitHub for version control and hosting the repository and final site. The repository for this project, and the associated workspace, was created from the Code Institute template.
+
+## Credits
+
+### Code I use
+* I learned how to make a burger menu from "https://www.w3schools.com/howto/howto_js_topnav_responsive.asp"
+* I took some information about the hero-image from "https://www.w3schools.com/howto/howto_css_hero_image.asp"
+* I learned how to make the nav-bar icons to smooth scroll from "https://www.w3schools.com/howto/howto_css_smooth_scroll.asp"
+* I use flexbox for all the box structure on the site. I learned it from "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+* 
