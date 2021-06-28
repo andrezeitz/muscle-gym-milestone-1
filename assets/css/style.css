@@ -47,7 +47,6 @@ h3 {
     color: #b80f0a;
 }
 
-
 /* navigation bar */
 
 .navbar {
@@ -112,9 +111,6 @@ h3 {
     background-color: #b80f0a;
 }
 
-
-
-
 /* hero photo */
 
 #gym-pic {
@@ -124,10 +120,9 @@ h3 {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-
 }
 
-/* flex containers to structure core html site */
+/* flex container to structure main html site */
 
 .flex-container {
     display: flex;
@@ -384,10 +379,6 @@ h3 {
     padding: 15px 0;
 }
 
-
-
-
-
 /* contact form */
 
 .page-heading {
@@ -420,7 +411,8 @@ h3 {
 }
 
 .contact-container form {
-    padding: 30px 30px 0px 30px;
+    padding: 30px 50px 0px;
+    width: 50%;
 }
 
 .contact-container p {
@@ -446,8 +438,9 @@ h3 {
 
 input[type="submit"] {
 	text-transform: uppercase;
-	background-color: black;
-	color: #b80f0a ;
+	color: #3a3a3a;
+    background-color: black;
+    color: white;
 	border: none;
 	font-weight: 800;
     height: 50px;
@@ -462,7 +455,7 @@ input[type="submit"] {
 .contact-container input[type="submit"]:focus,
 .contact-container input[type="submit"]:active {
 	background-color: #b80f0a;
-	color: black;
+	color: white;
 }
 
 /* success page change margin to footer */
@@ -583,6 +576,11 @@ input[type="submit"] {
     .footer-row i {
         font-size: 120%;
     }
+
+    .contact-container form {
+        padding: 30px 50px 0px;
+        width: 100%;
+    }
 }
 
 @media (max-width:700px) {
@@ -614,16 +612,20 @@ input[type="submit"] {
     }
     
     .logo {
-        margin-left: 5px;
+        margin-left: 7px;
         font-size: 230%;
-        padding-bottom: 0px;
+        padding-top: 5px;
     }
     
     .flexrow-home h3 {
         font-size: 50%;
     }
 
-    .toggle-button {
-        top: 0.7rem;
+    #gym-pic {
+        height: 400px;
+    }
+
+    .navbar {
+        padding: 3px 0px;
     }
 }
