@@ -142,7 +142,7 @@ The contact us page is just a simple contact form so the customer easy can get i
 ### Languages
 * HTML
 * CSS
-* JavaScript for burger menu (Credits for the code in the credits section)
+* JavaScript for burger menu and google maps (Credits for the code in the credits section)
 
 ### Frameworks & Tools
 * GitHub
