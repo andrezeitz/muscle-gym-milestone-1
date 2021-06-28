@@ -149,7 +149,21 @@ The contact us page is just a simple contact form so the customer easy can get i
 ## Testing
 
 ### Code Validation
-The W3C Markup Validation Service was used to validate the HTML on every page of the project. On the first validation some issues were flagged and these were resolved as explained below:
+The W3C Markup Validation Service was used to validate the HTML on every page of the project. On the first validation some issues were flagged on the contact-us.html and form-success.html and these were resolved as explained below:
+
+index.html with no problems found:
+![index validator](https://user-images.githubusercontent.com/85236391/123604368-11c7c500-d7fb-11eb-9791-639e43775b27.png)
+
+contact-us.html with some problems found and some of them fixed after.
+![contact all errors ](https://user-images.githubusercontent.com/85236391/123604467-26a45880-d7fb-11eb-96f6-f6e737a03d96.png)
+Still flagg the JavaScript for Google Maps.
+![contact errors map](https://user-images.githubusercontent.com/85236391/123604514-302dc080-d7fb-11eb-8b93-90d05441331a.png)
+
+form-success.html with some problems found:
+![form success errors](https://user-images.githubusercontent.com/85236391/123604640-52274300-d7fb-11eb-95a5-ebae0b74ab09.png)
+form-success.html with no problems found after:
+![form success fixed](https://user-images.githubusercontent.com/85236391/123604658-56ebf700-d7fb-11eb-9691-efce4d3b44fd.png)
+
 
 ### Different Screen Size
 I was using Chrome as my main browser and the website have been tested on my iPhone 11 Pro and Macbook Pro 13¨.
