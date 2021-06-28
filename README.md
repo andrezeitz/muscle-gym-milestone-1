@@ -144,6 +144,7 @@ The contact us page is just a simple contact form so the customer easy can get i
 * H3C CSS Validator
 * Am I responsive
 * WebAim
+* Maps-website.com
 
 ## Testing
 
@@ -168,4 +169,4 @@ The site was developed on Gitpod, using GitHub for version control and hosting t
 * I took some information about the hero-image from "https://www.w3schools.com/howto/howto_css_hero_image.asp"
 * I learned how to make the nav-bar icons to smooth scroll from "https://www.w3schools.com/howto/howto_css_smooth_scroll.asp"
 * I use flexbox for all the box structure on the site. I learned it from "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
-* 
+* I use https://maps-website.com/ to make the google map location in the contact form.
