@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto&display=swap');
 
-
 * {
     margin: 0;
     padding: 0;
@@ -35,13 +34,7 @@ h1 {
     color: #b80f0a;
 }
 
-h2 {
-    font-family: Lato, sans-serif;
-    text-transform: uppercase;
-    color: #b80f0a;
-}
-
-h3 {
+h2, h3 {
     font-family: Lato, sans-serif;
     text-transform: uppercase;
     color: #b80f0a;
