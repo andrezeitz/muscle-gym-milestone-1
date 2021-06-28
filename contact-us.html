@@ -46,7 +46,7 @@
     <div class="contact-flex-container contact-container">
         <!--container containing intro text and form-->
         <div id="contact-page">
-            <div>
+            <div class="contact-text">
                 <h2 class="page-heading">Send us a message!</h2>
                 <p>Hello! Thank you for getting in tuch with us!</p>
                 <p>Interested in joining one of our classes or book on of our personal trainers? Just
@@ -66,16 +66,16 @@
                 <input type="email" id="email" name="email" required>
                 <!--phone number not required-->
                 <label for="phone-number">Phone Number (optional)</label>
-                <input type="tel" id="phone-number" name="phone-number" placeholder="in the format 07x xxx xx xx"
+                <input type="tel" id="phone-number" name="phone-number" placeholder="In the format 07x xxx xx xx"
                 maxlength="11">
                 <!--check boxs-->
                 <p>Information you are interested in. Choose as many as you like.</p>
                 <label for="classes">Classes</label>
                 <input type="checkbox" id="classes" name="gym" value="classes" checked>
                 <label for="classes">Membership</label>
-                <input type="checkbox" id="classes" name="gym" value="membership" checked>
+                <input type="checkbox" id="membership" name="gym" value="membership" checked>
                 <label for="classes">General information</label>
-                <input type="checkbox" id="classes" name="gym" value="info" checked>
+                <input type="checkbox" id="info" name="gym" value="info" checked>
                 <!--message area-->
                 <label for="message">Do you have any other qustions for us?</label>
                 <textarea id="message" name="message" placeholder="Write here"></textarea>
