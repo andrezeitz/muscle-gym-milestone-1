@@ -82,12 +82,19 @@ As the wireframes are just basic sketches for each page I did some changes over 
 
 ### Colors
 Main colour used in project:
-* Background color: #fff and #000000
-* Font colors: #3a3a3a, #fff and #b8100a
+* Background color: #FFFFF and #000000
+* Font colors: #3A3A3A, #FFFFFF and #B8100A 
+* Membership box color: Gold rbg(255,215,0) and silver rbg(192,192,192)
 
 #### Contrast Checker
 
-I use #b8100a for large text that is good contrast to the background.
+I match #3A3A3A font color with the #FFFFFF background here is the result in contrast check:
+![Skärmavbild 2021-06-28 kl  13 51 34](https://user-images.githubusercontent.com/85236391/123632287-0e8f0200-d818-11eb-973c-07fd5db2f7be.png)
+
+I match #FFFFFF font color with the #000000 background. Here is the result in contrast check:!
+[Skärmavbild 2021-06-28 kl  13 50 50](https://user-images.githubusercontent.com/85236391/123632349-1d75b480-d818-11eb-93a4-6b040155f207.png)
+
+I use #B8100A for large text that is ok contrast to the background.
 ![Skärmavbild 2021-06-24 kl  11 58 53](https://user-images.githubusercontent.com/85236391/123540534-c43a5200-d73f-11eb-8158-7f9bc2b52633.png)
 
 
