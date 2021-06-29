@@ -4,7 +4,6 @@
     margin: 0;
     padding: 0;
     border: none;
-    box-sizing: border-box;
 }
 
 body {
@@ -16,7 +15,7 @@ body {
 /* smooth scroll on all links */
 
 html {
-    scroll-behavior:smooth
+    scroll-behavior: smooth;
     }
 
 /* h1, h2, h3 and logo */
@@ -379,8 +378,8 @@ h2, h3 {
     padding-bottom: 10px;
 }
 
-.contact-text {
-    width: 60%;
+#contact-page {
+    width: 50%;
 }
 
 .contact-flex-container {
@@ -407,11 +406,6 @@ h2, h3 {
       height: 100px;
 }
 
-.contact-container form {
-    padding: 30px 50px 0px;
-    width: 50%;
-}
-
 .contact-container p {
     padding-bottom: 10px;
 }
@@ -419,8 +413,9 @@ h2, h3 {
 .contact-container {
    display: flex;
    flex-direction: column;
-   padding: 10px; 
    margin: 50px 50px 0 50px;
+   align-items: center;
+   justify-content: center;
 }
 
 .contact-container input:hover,
@@ -574,8 +569,7 @@ input[type="submit"] {
         font-size: 120%;
     }
 
-    .contact-container form {
-        padding: 30px 50px 0px;
+    #contact-page {
         width: 100%;
     }
 }
