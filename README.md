@@ -161,7 +161,7 @@ The contact us page is just a simple contact form so the customer easy can get i
 * Result: TEST PASSED
    * It's very clear that the site is a gym buisiness providing number of service and visuals to show the customer what to expect.
 
-2. As a user, I want to be able to know how much the membership cost is. Result: TEST PASSED
+2. As a user, I want to be able to know how much the membership cost is.
 * Result: TEST PASSED
    * The cost of each membership is very clear and visual on the "Classes and Membership" side.
 
@@ -169,18 +169,22 @@ The contact us page is just a simple contact form so the customer easy can get i
 * Result: TEST PASSED 
    * We highlight three of our most popular classes with a text explaning how each class works.
 
-4. As a user, I want to be able to contact the business without have to exit the website and go to my personal mail program. Result: TEST PASSED
-* A separate contact form is provided for those users who wish to make contact.  This contact form is clearely showed on the top right side of the navigation bar.
+4. As a user, I want to be able to contact the business without have to exit the website and go to my personal mail program.
+* Result: TEST PASSED
+  * A separate contact form is provided for those users who wish to make contact.  This contact form is clearely showed on the top right side of the navigation bar.
 
-5. As a user, I want to be able to view the website on any of my devices without any loss of functionality. TEST PASSED
-* The dev tools build in to chrome was used to check that the website remained responsive across different screen sizes and devices. The site was also checked on iPhone 11, iPhone 10 and Galaxy S9.
-* Am I Responsive was also used to check responsiveness on different devices. Screenshot from that is in the introduction on this project.
+5. As a user, I want to be able to view the website on any of my devices without any loss of functionality.
+* Result: TEST PASSED
+  * The dev tools build in to chrome was used to check that the website remained responsive across different screen sizes and devices. The site was also checked on iPhone 11, iPhone 10 and Galaxy S9.
+  * Am I Responsive was also used to check responsiveness on different devices. Screenshot from that is in the introduction on this project.
 
-6. As a user, I want to be able to find the business contact details and opening hours. Result: TEST PASSED
-* In the footer you will find both phone number to the gym and a seperate email adress if you would like to contact the gym that way. You will also find the opening hours to the gym in the footer.
+6. As a user, I want to be able to find the business contact details and opening hours.
+* Result: TEST PASSED
+  * In the footer you will find both phone number to the gym and a seperate email adress if you would like to contact the gym that way. You will also find the opening hours to the gym in the footer.
 
-7. As a user, I want to be able to connect to the business thorugh social media. Result: TEST PASSED
-* You will find all the gyms social media links in the footer. All will have a direct link to the gyms facebook, twitter and instagram.
+7. As a user, I want to be able to connect to the business thorugh social media.
+* Result: TEST PASSED
+  * You will find all the gyms social media links in the footer. All will have a direct link to the gyms facebook, twitter and instagram.
 
 
 ### Code Validation
