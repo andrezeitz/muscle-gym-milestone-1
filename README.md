@@ -215,14 +215,10 @@ I was using Chrome as my main browser and the website have been tested on my iPh
 I also tested the website inside of Chrome Dev Tools. With different px sizes to make sure the website will work on all different devices.
 
 ## Issues found during site development
-I had an issue with the navigation bar after the size screen went smaller then 800px width the navigation link could not really fit even if I put it under the icon so I decided to change it to a burger menu to have it look sleek.
+* I had an issue with the navigation bar after the size screen went smaller then 800px width the navigation link could not really fit even if I put it under the icon so I decided to change it to a burger menu to have it look sleek.
 ![Skärmavbild 2021-06-29 kl  13 02 38](https://user-images.githubusercontent.com/85236391/123786728-4fe7e600-d8da-11eb-9de4-f6016424f481.png)
-One other problem was the right side picture in the home section. After the screen size went down to 1200px the picture start to shrink on the height and did not really look good. I decided that the picture will jump down under the home text after 1200px and then for mobile phones I choise to change the picture to a smaller one to really fit the mobile size.
-![Skärmavbild 2021-06-29 kl  13 09 43](https://user-images.githubusercontent.com/85236391/123787667-63e01780-d8db-11eb-87ab-8f3f4d2986b3.png)
-![Skärmavbild 2021-06-29 kl  13 10 02](https://user-images.githubusercontent.com/85236391/123787671-66db0800-d8db-11eb-9798-91e5105c48f9.png)
-![Skärmavbild 2021-06-29 kl  13 10 21](https://user-images.githubusercontent.com/85236391/123787675-68a4cb80-d8db-11eb-81c3-7372469a8c36.png)
 
-
+* One other problem was the right side picture in the home section. After the screen size went down to 1200px the picture start to shrink on the height and did not really look good. I decided that the picture will jump down under the home text after 1200px and then for mobile phones I choise to change the picture to a smaller one to really fit the mobile size.
 
 ## Deployment
 The site was developed on Gitpod, using GitHub for version control and hosting the repository and final site. The repository for this project, and the associated workspace, was created from the Code Institute template.
