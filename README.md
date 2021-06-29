@@ -5,7 +5,7 @@ Muscle Gym is a website for anyone that is looking for a really clean and modern
 This website can not be used as a template for a business since its a project for educational purposes.
 This website will be build with HTML and CSS.
 
-Live website: https://andrezeitz.github.io/user-centric-milestone-project/index.html
+Live website: [Muscle Gym](https://andrezeitz.github.io/Muscle-Gym/)
 <img width="1026" alt="Skärmavbild 2021-06-27 kl  12 47 55" src="https://user-images.githubusercontent.com/85236391/123541687-08305580-d746-11eb-9de6-8fa27c2459ce.png">
 
 
@@ -94,7 +94,6 @@ I match #3A3A3A font color with the #FFFFFF background here is the result in con
 I match #FFFFFF font color with the #000000 background. Here is the result in contrast check:!
 ![Skärmavbild 2021-06-28 kl  13 50 50](https://user-images.githubusercontent.com/85236391/123632997-e8b62d00-d818-11eb-9d96-ad8df40fbdab.png)
 
-
 I use #B8100A for large text that is ok contrast to the background.
 ![Skärmavbild 2021-06-24 kl  11 58 53](https://user-images.githubusercontent.com/85236391/123540534-c43a5200-d73f-11eb-8158-7f9bc2b52633.png)
 
@@ -119,14 +118,23 @@ The website has below features:
 * Classes and Membership
 * Contact us
 
+![Skärmavbild 2021-06-29 kl  13 16 54](https://user-images.githubusercontent.com/85236391/123788455-51b2a900-d8dc-11eb-9016-5147f64f4fa1.png)
+
+![Skärmavbild 2021-06-29 kl  13 26 33](https://user-images.githubusercontent.com/85236391/123789645-aefb2a00-d8dd-11eb-91f1-ac0fdf312126.png)
+
 ### Home
 The home page contains a big hero picture with full width for all screens.
 After the picture there is a lot of information about the gym. The topics are weight training, general fitness and functional training.
 
+![Skärmavbild 2021-06-29 kl  13 17 53](https://user-images.githubusercontent.com/85236391/123788543-6db64a80-d8dc-11eb-8566-b421831a2af4.png)
+
 ### About us
 On this side we go in little bit futher on our story for the gym, what we do and what our customers can expect from the gym.
 It cointains four sub headings. Our story, Customer service, What we do and Culture.
-After that we show our personal trainers with some informations about them. 
+After that we show our personal trainers with some informations about them.
+
+![Skärmavbild 2021-06-29 kl  13 18 35](https://user-images.githubusercontent.com/85236391/123788621-87579200-d8dc-11eb-88ae-77db9a0fee43.png)
+
 
 ### Classes and Membership
 Classes and Membership side start with a presentation of our three popular classes. They are spinning, circuit traning and zumba.
@@ -134,8 +142,19 @@ All classes have some information on what we do and what the customer can expect
 Finnaly we have the membership section where the customer have two choises. Either they can sign up for the silver membership or the gold membership.
 Both membership show information on what you get and prices.
 
+![Skärmavbild 2021-06-29 kl  13 19 03](https://user-images.githubusercontent.com/85236391/123788696-9a6a6200-d8dc-11eb-91ac-10ea60cb3689.png)
+
+
 ### Contact us
 The contact us page is just a simple contact form so the customer easy can get in contact with the gym. It cointans first name, last name, email, phone number that is optional. After that we have 3 check boxes that can be clicked on what the customer want more information about. They are "classes, personal trainers and general informaton". Last is the text box where the customer can write all there questions inside.
+Last they will see a google maps to show where the gym is located (fake location for this project)
+
+![Skärmavbild 2021-06-29 kl  13 20 47](https://user-images.githubusercontent.com/85236391/123788875-d6052c00-d8dc-11eb-8e3e-4f936c17d5ae.png)
+
+### Footer
+The footer contain the opening hours, social media links and opening times.
+
+![Skärmavbild 2021-06-29 kl  13 19 46](https://user-images.githubusercontent.com/85236391/123789005-f7661800-d8dc-11eb-86ec-1477e052b11c.png)
 
 ## Technologies Used
 
@@ -158,30 +177,38 @@ The contact us page is just a simple contact form so the customer easy can get i
 
 ## Testing
 
-1. As a user, I want to easily determine the purpose of the website. Result: TEST PASSED
-* It's very clear that the site is a gym buisiness providing number of service and visuals to show the customer what to expect.
+1. As a user, I want to easily determine the purpose of the website.
+* Result: TEST PASSED
+   * It's very clear that the site is a gym buisiness providing number of service and visuals to show the customer what to expect.
 
-2. As a user, I want to be able to know how much the membership cost is. Result: TEST PASSED
-* The cost of each membership is very clear and visual on the "Classes and Membership" side.
+2. As a user, I want to be able to know how much the membership cost is.
+* Result: TEST PASSED
+   * The cost of each membership is very clear and visual on the "Classes and Membership" side.
 
-3. As a user, I want to see what typ of different classes the gym have and some information about it. Result: TEST PASSED
-* We highlight three of our most popular classes with a text explaning how each class works.
+3. As a user, I want to see what typ of different classes the gym have and some information about it.
+* Result: TEST PASSED 
+   * We highlight three of our most popular classes with a text explaning how each class works.
 
-4. As a user, I want to be able to contact the business without have to exit the website and go to my personal mail program. Result: TEST PASSED
-* A separate contact form is provided for those users who wish to make contact.  This contact form is clearely showed on the top right side of the navigation bar.
+4. As a user, I want to be able to contact the business without have to exit the website and go to my personal mail program.
+* Result: TEST PASSED
+  * A separate contact form is provided for those users who wish to make contact.  This contact form is clearely showed on the top right side of the navigation bar.
 
-5. As a user, I want to be able to view the website on any of my devices without any loss of functionality. TEST PASSED
-* The dev tools build in to chrome was used to check that the website remained responsive across different screen sizes and devices. The site was also checked on iPhone 11, iPhone 10 and Galaxy S9.
-* Am I Responsive was also used to check responsiveness on different devices. Screenshot from that is in the introduction on this project.
+5. As a user, I want to be able to view the website on any of my devices without any loss of functionality.
+* Result: TEST PASSED
+  * The dev tools build in to chrome was used to check that the website remained responsive across different screen sizes and devices. The site was also checked on iPhone 11, iPhone 10 and Galaxy S9.
+  * Am I Responsive was also used to check responsiveness on different devices. Screenshot from that is in the introduction on this project.
 
-6. As a user, I want to be able to find the business contact details and opening hours. Result: TEST PASSED
-* In the footer you will find both phone number to the gym and a seperate email adress if you would like to contact the gym that way. You will also find the opening hours to the gym in the footer.
+6. As a user, I want to be able to find the business contact details and opening hours.
+* Result: TEST PASSED
+  * In the footer you will find both phone number to the gym and a seperate email adress if you would like to contact the gym that way. You will also find the opening hours to the gym in the footer.
 
-7. As a user, I want to be able to connect to the business thorugh social media. Result: TEST PASSED
-* You will find all the gyms social media links in the footer. All will have a direct link to the gyms facebook, twitter and instagram.
+7. As a user, I want to be able to connect to the business thorugh social media.
+* Result: TEST PASSED
+  * You will find all the gyms social media links in the footer. All will have a direct link to the gyms facebook, twitter and instagram.
 
 
 ### Code Validation
+#### HTML
 The W3C Markup Validation Service was used to validate the HTML on every page of the project. On the first validation some issues were flagged on the contact-us.html and form-success.html and these were resolved as explained below:
 
 index.html with no problems found:
@@ -192,10 +219,17 @@ contact-us.html with some problems found and some of them fixed after.
 Still flagg the JavaScript for Google Maps.
 ![contact errors map](https://user-images.githubusercontent.com/85236391/123604514-302dc080-d7fb-11eb-8b93-90d05441331a.png)
 
+I follow the guide that was in the HTML Essentials/The Essentials and fixed all the errors.
+![Skärmavbild 2021-06-29 kl  14 41 50](https://user-images.githubusercontent.com/85236391/123799268-567d5a00-d8e8-11eb-89e7-63bfacb6bec6.png)
+
 form-success.html with some problems found:
 ![form success errors](https://user-images.githubusercontent.com/85236391/123604640-52274300-d7fb-11eb-95a5-ebae0b74ab09.png)
 form-success.html with no problems found after:
 ![form success fixed](https://user-images.githubusercontent.com/85236391/123604658-56ebf700-d7fb-11eb-9691-efce4d3b44fd.png)
+
+#### CSS
+The W3C CSS Validation Service was used to validate the CSS file used for the project. There were no errors found.
+![Skärmavbild 2021-06-29 kl  10 57 43](https://user-images.githubusercontent.com/85236391/123769024-25d9f800-d8c9-11eb-90c5-0a5b47c9b628.png)
 
 
 ### Different Screen Size
@@ -204,7 +238,11 @@ I was using Chrome as my main browser and the website have been tested on my iPh
 I also tested the website inside of Chrome Dev Tools. With different px sizes to make sure the website will work on all different devices.
 
 ## Issues found during site development
-Problem to get the site to size good after width 400px, photos will not shrink down to the correct size.
+* I had an issue with the navigation bar after the size screen went smaller then 800px width the navigation link could not really fit even if I put it under the icon so I decided to change it to a burger menu to have it look sleek.
+
+![Skärmavbild 2021-06-29 kl  13 02 38](https://user-images.githubusercontent.com/85236391/123786728-4fe7e600-d8da-11eb-9de4-f6016424f481.png)
+
+* One other problem was the right side picture in the home section. After the screen size went down to 1200px the picture start to shrink on the height and did not really look good. I decided that the picture will jump down under the home text after 1200px and then for mobile phones I choise to change the picture to a smaller one to really fit the mobile size.
 
 ## Deployment
 The site was developed on Gitpod, using GitHub for version control and hosting the repository and final site. The repository for this project, and the associated workspace, was created from the Code Institute template.
