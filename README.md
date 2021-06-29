@@ -117,18 +117,21 @@ The website has below features:
 * About us
 * Classes and Membership
 * Contact us
+
 ![Skärmavbild 2021-06-29 kl  13 16 54](https://user-images.githubusercontent.com/85236391/123788455-51b2a900-d8dc-11eb-9016-5147f64f4fa1.png)
 ![Skärmavbild 2021-06-29 kl  13 02 38](https://user-images.githubusercontent.com/85236391/123788461-55463000-d8dc-11eb-870b-3320080173ed.png)
 
 ### Home
 The home page contains a big hero picture with full width for all screens.
 After the picture there is a lot of information about the gym. The topics are weight training, general fitness and functional training.
+
 ![Skärmavbild 2021-06-29 kl  13 17 53](https://user-images.githubusercontent.com/85236391/123788543-6db64a80-d8dc-11eb-8566-b421831a2af4.png)
 
 ### About us
 On this side we go in little bit futher on our story for the gym, what we do and what our customers can expect from the gym.
 It cointains four sub headings. Our story, Customer service, What we do and Culture.
 After that we show our personal trainers with some informations about them.
+
 ![Skärmavbild 2021-06-29 kl  13 18 35](https://user-images.githubusercontent.com/85236391/123788621-87579200-d8dc-11eb-88ae-77db9a0fee43.png)
 
 
@@ -137,6 +140,7 @@ Classes and Membership side start with a presentation of our three popular class
 All classes have some information on what we do and what the customer can expect from the class.
 Finnaly we have the membership section where the customer have two choises. Either they can sign up for the silver membership or the gold membership.
 Both membership show information on what you get and prices.
+
 ![Skärmavbild 2021-06-29 kl  13 19 03](https://user-images.githubusercontent.com/85236391/123788696-9a6a6200-d8dc-11eb-91ac-10ea60cb3689.png)
 
 
@@ -148,8 +152,8 @@ Last they will see a google maps to show where the gym is located (fake location
 
 ### Footer
 The footer contain the opening hours, social media links and opening times.
-![Skärmavbild 2021-06-29 kl  13 19 46](https://user-images.githubusercontent.com/85236391/123789005-f7661800-d8dc-11eb-86ec-1477e052b11c.png)
 
+![Skärmavbild 2021-06-29 kl  13 19 46](https://user-images.githubusercontent.com/85236391/123789005-f7661800-d8dc-11eb-86ec-1477e052b11c.png)
 
 ## Technologies Used
 
@@ -231,6 +235,7 @@ I also tested the website inside of Chrome Dev Tools. With different px sizes to
 
 ## Issues found during site development
 * I had an issue with the navigation bar after the size screen went smaller then 800px width the navigation link could not really fit even if I put it under the icon so I decided to change it to a burger menu to have it look sleek.
+
 ![Skärmavbild 2021-06-29 kl  13 02 38](https://user-images.githubusercontent.com/85236391/123786728-4fe7e600-d8da-11eb-9de4-f6016424f481.png)
 
 * One other problem was the right side picture in the home section. After the screen size went down to 1200px the picture start to shrink on the height and did not really look good. I decided that the picture will jump down under the home text after 1200px and then for mobile phones I choise to change the picture to a smaller one to really fit the mobile size.
