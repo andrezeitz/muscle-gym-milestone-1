@@ -142,6 +142,8 @@ Both membership show information on what you get and prices.
 
 ### Contact us
 The contact us page is just a simple contact form so the customer easy can get in contact with the gym. It cointans first name, last name, email, phone number that is optional. After that we have 3 check boxes that can be clicked on what the customer want more information about. They are "classes, personal trainers and general informaton". Last is the text box where the customer can write all there questions inside.
+Last they will see a google maps to show where the gym is located (fake location for this project)
+
 ![Skärmavbild 2021-06-29 kl  13 20 47](https://user-images.githubusercontent.com/85236391/123788875-d6052c00-d8dc-11eb-8e3e-4f936c17d5ae.png)
 
 ### Footer
