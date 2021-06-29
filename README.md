@@ -157,15 +157,17 @@ The contact us page is just a simple contact form so the customer easy can get i
 
 ## Testing
 
-1. As a user, I want to easily determine the purpose of the website. Result: TEST PASSED
-* It's very clear that the site is a gym buisiness providing number of service and visuals to show the customer what to expect.
+1. As a user, I want to easily determine the purpose of the website.
+* Result: TEST PASSED
+   * It's very clear that the site is a gym buisiness providing number of service and visuals to show the customer what to expect.
 
 2. As a user, I want to be able to know how much the membership cost is. Result: TEST PASSED
-* The cost of each membership is very clear and visual on the "Classes and Membership" side.
+* Result: TEST PASSED
+   * The cost of each membership is very clear and visual on the "Classes and Membership" side.
 
-3. As a user, I want to see what typ of different classes the gym have and some information about it. Result: TEST PASSED
-
-    * We highlight three of our most popular classes with a text explaning how each class works.
+3. As a user, I want to see what typ of different classes the gym have and some information about it.
+* Result: TEST PASSED 
+   * We highlight three of our most popular classes with a text explaning how each class works.
 
 4. As a user, I want to be able to contact the business without have to exit the website and go to my personal mail program. Result: TEST PASSED
 * A separate contact form is provided for those users who wish to make contact.  This contact form is clearely showed on the top right side of the navigation bar.
