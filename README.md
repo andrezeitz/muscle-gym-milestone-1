@@ -165,7 +165,7 @@ The contact us page is just a simple contact form so the customer easy can get i
 
 3. As a user, I want to see what typ of different classes the gym have and some information about it. Result: TEST PASSED
 
-.* We highlight three of our most popular classes with a text explaning how each class works.
+    * We highlight three of our most popular classes with a text explaning how each class works.
 
 4. As a user, I want to be able to contact the business without have to exit the website and go to my personal mail program. Result: TEST PASSED
 * A separate contact form is provided for those users who wish to make contact.  This contact form is clearely showed on the top right side of the navigation bar.
