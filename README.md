@@ -219,6 +219,11 @@ contact-us.html with some problems found and some of them fixed after.
 Still flagg the JavaScript for Google Maps.
 ![contact errors map](https://user-images.githubusercontent.com/85236391/123604514-302dc080-d7fb-11eb-8b93-90d05441331a.png)
 
+I follow the guide that was in the HTML Essentials/The Essentials and fixed all the errors except one that is I should not use a % inside the iframe. In the guide it actually say that we should use % to get the full width so I keept it.
+![Skärmavbild 2021-06-29 kl  13 55 39](https://user-images.githubusercontent.com/85236391/123793636-3cd91400-d8e2-11eb-9415-fd331fc681bb.png)
+
+
+
 form-success.html with some problems found:
 ![form success errors](https://user-images.githubusercontent.com/85236391/123604640-52274300-d7fb-11eb-95a5-ebae0b74ab09.png)
 form-success.html with no problems found after:
