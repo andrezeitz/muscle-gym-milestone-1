@@ -94,7 +94,6 @@ I match #3A3A3A font color with the #FFFFFF background here is the result in con
 I match #FFFFFF font color with the #000000 background. Here is the result in contrast check:!
 ![Skärmavbild 2021-06-28 kl  13 50 50](https://user-images.githubusercontent.com/85236391/123632997-e8b62d00-d818-11eb-9d96-ad8df40fbdab.png)
 
-
 I use #B8100A for large text that is ok contrast to the background.
 ![Skärmavbild 2021-06-24 kl  11 58 53](https://user-images.githubusercontent.com/85236391/123540534-c43a5200-d73f-11eb-8158-7f9bc2b52633.png)
 
@@ -165,7 +164,7 @@ The contact us page is just a simple contact form so the customer easy can get i
 * The cost of each membership is very clear and visual on the "Classes and Membership" side.
 
 3. As a user, I want to see what typ of different classes the gym have and some information about it. Result: TEST PASSED
-* We highlight three of our most popular classes with a text explaning how each class works.
+⋅* We highlight three of our most popular classes with a text explaning how each class works.
 
 4. As a user, I want to be able to contact the business without have to exit the website and go to my personal mail program. Result: TEST PASSED
 * A separate contact form is provided for those users who wish to make contact.  This contact form is clearely showed on the top right side of the navigation bar.
