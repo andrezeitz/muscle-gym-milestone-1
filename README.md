@@ -4,6 +4,8 @@ Muscle Gym is a website for anyone that is looking for a really clean and modern
 
 This website can not be used as a template for a business since its a project for educational purposes.
 This website will be build with HTML and CSS.
+
+Live website: https://andrezeitz.github.io/user-centric-milestone-project/index.html
 <img width="1026" alt="Skärmavbild 2021-06-27 kl  12 47 55" src="https://user-images.githubusercontent.com/85236391/123541687-08305580-d746-11eb-9de6-8fa27c2459ce.png">
 
 
@@ -80,12 +82,20 @@ As the wireframes are just basic sketches for each page I did some changes over 
 
 ### Colors
 Main colour used in project:
-* Background color: #fff and #000000
-* Font colors: #3a3a3a, #fff and #b8100a
+* Background color: #FFFFF and #000000
+* Font colors: #3A3A3A, #FFFFFF and #B8100A 
+* Membership box color: Gold rbg(255,215,0) and silver rbg(192,192,192)
 
 #### Contrast Checker
 
-I use #b8100a for large text that is good contrast to the background.
+I match #3A3A3A font color with the #FFFFFF background here is the result in contrast check:
+![Skärmavbild 2021-06-28 kl  13 51 34](https://user-images.githubusercontent.com/85236391/123632287-0e8f0200-d818-11eb-973c-07fd5db2f7be.png)
+
+I match #FFFFFF font color with the #000000 background. Here is the result in contrast check:!
+![Skärmavbild 2021-06-28 kl  13 50 50](https://user-images.githubusercontent.com/85236391/123632997-e8b62d00-d818-11eb-9d96-ad8df40fbdab.png)
+
+
+I use #B8100A for large text that is ok contrast to the background.
 ![Skärmavbild 2021-06-24 kl  11 58 53](https://user-images.githubusercontent.com/85236391/123540534-c43a5200-d73f-11eb-8158-7f9bc2b52633.png)
 
 
@@ -132,7 +142,7 @@ The contact us page is just a simple contact form so the customer easy can get i
 ### Languages
 * HTML
 * CSS
-* JavaScript for burger menu (Credits for the code in the credits section)
+* JavaScript for burger menu and google maps (Credits for the code in the credits section)
 
 ### Frameworks & Tools
 * GitHub
@@ -147,6 +157,29 @@ The contact us page is just a simple contact form so the customer easy can get i
 * Maps-website.com
 
 ## Testing
+
+1. As a user, I want to easily determine the purpose of the website. Result: TEST PASSED
+* It's very clear that the site is a gym buisiness providing number of service and visuals to show the customer what to expect.
+
+2. As a user, I want to be able to know how much the membership cost is. Result: TEST PASSED
+* The cost of each membership is very clear and visual on the "Classes and Membership" side.
+
+3. As a user, I want to see what typ of different classes the gym have and some information about it. Result: TEST PASSED
+* We highlight three of our most popular classes with a text explaning how each class works.
+
+4. As a user, I want to be able to contact the business without have to exit the website and go to my personal mail program. Result: TEST PASSED
+* A separate contact form is provided for those users who wish to make contact.  This contact form is clearely showed on the top right side of the navigation bar.
+
+5. As a user, I want to be able to view the website on any of my devices without any loss of functionality. TEST PASSED
+* The dev tools build in to chrome was used to check that the website remained responsive across different screen sizes and devices. The site was also checked on iPhone 11, iPhone 10 and Galaxy S9.
+* Am I Responsive was also used to check responsiveness on different devices. Screenshot from that is in the introduction on this project.
+
+6. As a user, I want to be able to find the business contact details and opening hours. Result: TEST PASSED
+* In the footer you will find both phone number to the gym and a seperate email adress if you would like to contact the gym that way. You will also find the opening hours to the gym in the footer.
+
+7. As a user, I want to be able to connect to the business thorugh social media. Result: TEST PASSED
+* You will find all the gyms social media links in the footer. All will have a direct link to the gyms facebook, twitter and instagram.
+
 
 ### Code Validation
 The W3C Markup Validation Service was used to validate the HTML on every page of the project. On the first validation some issues were flagged on the contact-us.html and form-success.html and these were resolved as explained below:
