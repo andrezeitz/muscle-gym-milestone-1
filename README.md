@@ -182,6 +182,7 @@ The contact us page is just a simple contact form so the customer easy can get i
 
 
 ### Code Validation
+#### HTML
 The W3C Markup Validation Service was used to validate the HTML on every page of the project. On the first validation some issues were flagged on the contact-us.html and form-success.html and these were resolved as explained below:
 
 index.html with no problems found:
@@ -196,6 +197,10 @@ form-success.html with some problems found:
 ![form success errors](https://user-images.githubusercontent.com/85236391/123604640-52274300-d7fb-11eb-95a5-ebae0b74ab09.png)
 form-success.html with no problems found after:
 ![form success fixed](https://user-images.githubusercontent.com/85236391/123604658-56ebf700-d7fb-11eb-9691-efce4d3b44fd.png)
+
+#### CSS
+The W3C CSS Validation Service was used to validate the CSS file used for the project. There were no errors found.
+![Skärmavbild 2021-06-29 kl  10 57 43](https://user-images.githubusercontent.com/85236391/123769024-25d9f800-d8c9-11eb-90c5-0a5b47c9b628.png)
 
 
 ### Different Screen Size
