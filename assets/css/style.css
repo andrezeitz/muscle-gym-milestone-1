@@ -8,7 +8,6 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    font-weight: 250;
     color: #3a3a3a;
 }
 
@@ -37,6 +36,10 @@ h2, h3 {
     font-family: Lato, sans-serif;
     text-transform: uppercase;
     color: #b80f0a;
+}
+
+.iframe {
+    width: 100%;
 }
 
 /* navigation bar */
@@ -581,6 +584,7 @@ input[type="submit"] {
         width: 400px;
         height: 400px;
     }
+}    
 
 /* personal trainer sections */
 
