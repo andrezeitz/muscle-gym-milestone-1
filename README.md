@@ -215,7 +215,9 @@ I was using Chrome as my main browser and the website have been tested on my iPh
 I also tested the website inside of Chrome Dev Tools. With different px sizes to make sure the website will work on all different devices.
 
 ## Issues found during site development
-Problem to get the site to size good after width 400px, photos will not shrink down to the correct size.
+I had an issue with the navigation bar after the size screen went smaller then 800px width the navigation link could not really fit under the icon and look good so I decided to change it to a burger menu to have it look good.
+![Skärmavbild 2021-06-29 kl  13 02 38](https://user-images.githubusercontent.com/85236391/123786728-4fe7e600-d8da-11eb-9de4-f6016424f481.png)
+
 
 ## Deployment
 The site was developed on Gitpod, using GitHub for version control and hosting the repository and final site. The repository for this project, and the associated workspace, was created from the Code Institute template.
