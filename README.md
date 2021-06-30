@@ -11,11 +11,26 @@ Live website: [Muscle Gym](https://andrezeitz.github.io/Muscle-Gym/)
 ## Table of Contents
 
 * [Project Goals](#project-goals)
- * [Website owner business goals](#website-owner-business-goals)
- * [User Goals](#user-goals)
+  * [Website owner business goals](#website-owner-business-goals)
+  * [User Goals](#user-goals)
  
 * [User Experience](#user-experience)
-  * [Target Audience](#target-audience) 
+  * [Target Audience](#target-audience)
+  * [User Requrements and Expectations](#user-requrements-and-expectations)
+  * [User Stories](#user-stories)
+
+* [Structure of the website](#structure-of-the-website)
+* [Wireframes](#wireframes)
+  * [Desktop](#desktop)
+  * [Mobile](#mobile)
+
+* [Changes to Wireframes Design as the Project Progressed](#changes-to-wireframes-design-as-the-project-progressed)
+* [Design](#design)
+  * [Colors](#colors)
+  * [Contrast Checker](#contrast-checker)
+  * [Fonts](#fonts)
+  * [Images](#images)
+
 
  
 ## Project Goals
