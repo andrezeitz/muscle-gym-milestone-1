@@ -11,13 +11,13 @@ Live website: [Muscle Gym](https://andrezeitz.github.io/Muscle-Gym/)
 ## Table of Contents
 
 * [Project Goals](#project-goals)
-  * [Website owner business goals](#website-owner-business-goals)
-  * [User Goals](#user-goals)
+ * [Website owner business goals](#website-owner-business-goals)
+ * [User Goals](#user-goals)
  
 * [User Experience](#user-experience)
   * [Target Audience](#target-audience) 
 
-
+ 
 ## Project Goals
 
 ### Website owner business goals
