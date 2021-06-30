@@ -11,6 +11,7 @@ Live website: [Muscle Gym](https://andrezeitz.github.io/Muscle-Gym/)
 ## Table of Contents
 
 * [Project Goals](#project-goals)
+  * [Website owner business goals](#website-owner-business-goals)
 
 ## Project Goals
 
