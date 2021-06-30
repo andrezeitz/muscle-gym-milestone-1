@@ -31,7 +31,27 @@ Live website: [Muscle Gym](https://andrezeitz.github.io/Muscle-Gym/)
   * [Fonts](#fonts)
   * [Images](#images)
 
+* [Features](#features)
+  * [Navigation bar](#navigation-bar)
+  * [Home](#home)
+  * [About us](#about-us)
+  * [Classes and Membership](#classes-and-membership)
+  * [Contact us](#contact-us)
+  * [Footer](#footer)
 
+* [Technologies Used](#technologies-used)
+  * [Languages](#languages)
+  * [Frameworks & Tools](#frameworks-&-tools)
+
+* [Testing](#testing)
+* [Code Validation](#Code-validation)
+  * [HTML](#HTML)
+  * [CSS](#CSS)
+* [Different Screen Size](#different-screen-size)
+* [Issues found during site development](#issues-found-during-site-development)
+* [Deployment](#deployment)
+* [Credits](#credits)
+  * [Code I use](#code-i-use)
  
 ## Project Goals
 
