@@ -8,7 +8,9 @@ This website will be build with HTML and CSS.
 Live website: [Muscle Gym](https://andrezeitz.github.io/Muscle-Gym/)
 <img width="1026" alt="Skärmavbild 2021-06-27 kl  12 47 55" src="https://user-images.githubusercontent.com/85236391/123541687-08305580-d746-11eb-9de6-8fa27c2459ce.png">
 
+## Table of Contents
 
+* [Project Goals] (#project-goals)
 
 ## Project Goals
 
