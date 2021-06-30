@@ -126,7 +126,8 @@ The website has below features:
 The home page contains a big hero picture with full width for all screens.
 After the picture there is a lot of information about the gym. The topics are weight training, general fitness and functional training.
 
-![Skärmavbild 2021-06-29 kl  13 17 53](https://user-images.githubusercontent.com/85236391/123788543-6db64a80-d8dc-11eb-8566-b421831a2af4.png)
+![Skärmavbild 2021-06-30 kl  10 37 17](https://user-images.githubusercontent.com/85236391/123929600-43719500-d98f-11eb-89d3-cd055c834311.png)
+
 
 ### About us
 On this side we go in little bit futher on our story for the gym, what we do and what our customers can expect from the gym.
@@ -179,32 +180,52 @@ The footer contain the opening hours, social media links and opening times.
 
 1. As a user, I want to easily determine the purpose of the website.
 * Result: TEST PASSED
-   * It's very clear that the site is a gym buisiness providing number of service and visuals to show the customer what to expect.
+   * It's very clear that the site is a gym business providing number of service and visuals to show the customer what to expect. On the home side we explain the different training activities we hold.
+
+![Skärmavbild 2021-06-30 kl  10 41 12](https://user-images.githubusercontent.com/85236391/123930458-0fe33a80-d990-11eb-8408-7de317ccb90e.png)
+
 
 2. As a user, I want to be able to know how much the membership cost is.
 * Result: TEST PASSED
    * The cost of each membership is very clear and visual on the "Classes and Membership" side.
 
+![Skärmavbild 2021-06-30 kl  10 40 14](https://user-images.githubusercontent.com/85236391/123929977-92b7c580-d98f-11eb-9219-ae2a0302ccec.png)
+
+
 3. As a user, I want to see what typ of different classes the gym have and some information about it.
 * Result: TEST PASSED 
    * We highlight three of our most popular classes with a text explaning how each class works.
 
+![Skärmavbild 2021-06-30 kl  10 39 42](https://user-images.githubusercontent.com/85236391/123930007-9b100080-d98f-11eb-8e6a-51f0ad346d3b.png)
+
+
 4. As a user, I want to be able to contact the business without have to exit the website and go to my personal mail program.
 * Result: TEST PASSED
-  * A separate contact form is provided for those users who wish to make contact.  This contact form is clearely showed on the top right side of the navigation bar.
+  * A separate contact form is provided for those users who wish to make contact. This contact page is clearely showed on the top right side of the navigation bar.
+
+![Skärmavbild 2021-06-30 kl  10 45 32](https://user-images.githubusercontent.com/85236391/123930736-4faa2200-d990-11eb-8d9a-06355aba2739.png)
+
 
 5. As a user, I want to be able to view the website on any of my devices without any loss of functionality.
 * Result: TEST PASSED
   * The dev tools build in to chrome was used to check that the website remained responsive across different screen sizes and devices. The site was also checked on iPhone 11, iPhone 10 and Galaxy S9.
-  * Am I Responsive was also used to check responsiveness on different devices. Screenshot from that is in the introduction on this project.
+  * Am I Responsive was also used to check responsiveness on different devices.
+
+<img width="1026" alt="Skärmavbild 2021-06-27 kl  12 47 55" src="https://user-images.githubusercontent.com/85236391/123930963-7e27fd00-d990-11eb-80fa-a78fa49ac871.png">
+
 
 6. As a user, I want to be able to find the business contact details and opening hours.
 * Result: TEST PASSED
   * In the footer you will find both phone number to the gym and a seperate email adress if you would like to contact the gym that way. You will also find the opening hours to the gym in the footer.
 
+![Skärmavbild 2021-06-29 kl  13 19 46](https://user-images.githubusercontent.com/85236391/123931029-8c761900-d990-11eb-924e-5f724cdaf39f.png)
+
+
 7. As a user, I want to be able to connect to the business thorugh social media.
 * Result: TEST PASSED
   * You will find all the gyms social media links in the footer. All will have a direct link to the gyms facebook, twitter and instagram.
+
+![Skärmavbild 2021-06-30 kl  10 47 45](https://user-images.githubusercontent.com/85236391/123931133-a1eb4300-d990-11eb-8141-6531e948abd6.png)
 
 
 ### Code Validation
