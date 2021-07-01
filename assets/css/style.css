@@ -166,6 +166,7 @@ h2, h3 {
 #about-us h2 {
     text-align: center;
     font-size: 250%;
+    padding-top: 10px;
 }
 
 #about-us h3 {
