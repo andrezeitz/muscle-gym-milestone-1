@@ -2,7 +2,7 @@
 
 Muscle Gym is a website for anyone that is looking for a really clean and modern gym in central Stockholm. The gym just opened it doors to the public and want with this website to try to get more customers to find it. On this website, you can find all information you need to become a new member.
 
-This website can not be used as a template for a business since its a project for educational purposes.
+This website can not be used as a template for a business since it's a project for educational purposes.
 This website will be build with HTML and CSS.
 
 Live website: [Muscle Gym](https://andrezeitz.github.io/Muscle-Gym/)
@@ -16,15 +16,15 @@ Live website: [Muscle Gym](https://andrezeitz.github.io/Muscle-Gym/)
 
 * [User Experience](#user-experience)
   * [Target Audience](#target-audience)
-  * [User Requrements and Expectations](#user-requrements-and-expectations)
+  * [User Requirements and Expectations](#user-requirements-and-expectations)
   * [User Stories](#user-stories)
 
 * [Structure of the website](#structure-of-the-website)
-* [Wireframes](#wireframes)
+* [Wire frames](#wireframes)
   * [Desktop](#desktop)
   * [Mobile](#mobile)
 
-* [Changes to Wireframes Design as the Project Progressed](#changes-to-wireframes-design-as-the-project-progressed)
+* [Changes to Wire frames Design as the Project Progressed](#changes-to-wireframes-design-as-the-project-progressed)
 * [Design](#design)
   * [Colors](#colors)
   * [Contrast Checker](#contrast-checker)
@@ -58,7 +58,7 @@ Live website: [Muscle Gym](https://andrezeitz.github.io/Muscle-Gym/)
 ### Website owner business goals
 
 * Increase in the number of customers
-* Promote the bussiness
+* Promote the business
 * Make it easy for customers to keep in contact with the business
 * Update schedule for classes
 * Show the location of the gym and opening hours
@@ -66,7 +66,7 @@ Live website: [Muscle Gym](https://andrezeitz.github.io/Muscle-Gym/)
 ### User goals
 
 * Find the location of the gym
-* Find what typ of classes are offered
+* Find what type of classes are offered
 * See what people work as personal trainers
 * See price for classes and gym
 
@@ -78,7 +78,7 @@ Live website: [Muscle Gym](https://andrezeitz.github.io/Muscle-Gym/)
 * Groups of people looking for a place to train together
 * People that is looking to train with an experience personal trainer
 
-### User Requrements and Expectations
+### User Requirements and Expectations
 * Links and functions that always work
 * A simple navigation system
 * Easily and quick to find relevant information
@@ -89,7 +89,7 @@ Live website: [Muscle Gym](https://andrezeitz.github.io/Muscle-Gym/)
 
 * As a new user can easy navigate the website
 * As a new user it's easy to find find promotion deals
-* As a new user I can easy find personal traning and classes information
+* As a new user I can easy find personal trainer and classes information
 * As a new user I can see where the gym is located
 * As a new user I can contact the gym about questions
 * As a returning user I want clear information about the hours of classes
@@ -98,10 +98,10 @@ Live website: [Muscle Gym](https://andrezeitz.github.io/Muscle-Gym/)
 
 ## Structure of the website
 
-The website is made so it should be easy for anyone to use the website on any devices. There should not be any differens on the user experience to use desktop, mobile or tablet on the website. 
+The website is made so it should be easy for anyone to use the website on any devices. There should not be any different on the user experience to use desktop, mobile or tablet on the website. 
 
 ## Wireframes
-I used website wireframe.cc to creat a wireframe.
+I used website wireframe.cc to create a wireframe.
 
 ### Desktop
 ![1-Homepage](https://user-images.githubusercontent.com/85236391/121511290-c3d45400-c9e8-11eb-8fab-9b2b1e3bd588.png)
@@ -173,24 +173,24 @@ After the picture there is a lot of information about the gym. The topics are we
 
 
 ### About us
-On this side we go in little bit futher on our story for the gym, what we do and what our customers can expect from the gym.
-It cointains four sub headings. Our story, Customer service, What we do and Culture.
-After that we show our personal trainers with some informations about them.
+On this side we go in little further on our story for the gym, what we do and what our customers can expect from the gym.
+It contains four subheadings. Our story, Customer service, What we do and Culture.
+After that we show our personal trainers with some information about them.
 
 ![Skärmavbild 2021-06-29 kl  13 18 35](https://user-images.githubusercontent.com/85236391/123788621-87579200-d8dc-11eb-88ae-77db9a0fee43.png)
 
 
 ### Classes and Membership
-Classes and Membership side start with a presentation of our three popular classes. They are spinning, circuit traning and zumba.
+Classes and Membership side start with a presentation of our three popular classes. They are spinning, circuit training and zumba.
 All classes have some information on what we do and what the customer can expect from the class.
-Finnaly we have the membership section where the customer have two choises. Either they can sign up for the silver membership or the gold membership.
+Finally we have the membership section where the customer have two choices. Either they can sign up for the silver membership or the gold membership.
 Both membership show information on what you get and prices.
 
 ![Skärmavbild 2021-06-29 kl  13 19 03](https://user-images.githubusercontent.com/85236391/123788696-9a6a6200-d8dc-11eb-91ac-10ea60cb3689.png)
 
 
 ### Contact us
-The contact us page is just a simple contact form so the customer easy can get in contact with the gym. It cointans first name, last name, email, phone number that is optional. After that we have 3 check boxes that can be clicked on what the customer want more information about. They are "classes, personal trainers and general informaton". Last is the text box where the customer can write all there questions inside.
+The contact us page is just a simple contact form so the customer easy can get in contact with the gym. It cointans first name, last name, email and phone number that is optional for the customer. After that we have 3 check boxes that can be clicked on what the customer want more information about. They are "classes, personal trainers and general information". Last is the text box where the customer can write all there questions inside.
 Last they will see a google maps to show where the gym is located (fake location for this project)
 
 ![Skärmavbild 2021-06-29 kl  13 20 47](https://user-images.githubusercontent.com/85236391/123788875-d6052c00-d8dc-11eb-8e3e-4f936c17d5ae.png)
@@ -211,8 +211,8 @@ The footer contain the opening hours, social media links and opening times.
 * GitHub
 * Gitpod
 * Google Fonts
-* Font Awsome
-* Flexbox
+* Font Awesome
+* Flex box
 * W3C HTML Validator
 * H3C CSS Validator
 * Am I responsive
@@ -235,9 +235,9 @@ The footer contain the opening hours, social media links and opening times.
 ![Skärmavbild 2021-06-30 kl  10 40 14](https://user-images.githubusercontent.com/85236391/123929977-92b7c580-d98f-11eb-9219-ae2a0302ccec.png)
 
 
-3. As a user, I want to see what typ of different classes the gym have and some information about it.
+3. As a user, I want to see what type of different classes the gym have and some information about it.
 * Result: TEST PASSED 
-   * We highlight three of our most popular classes with a text explaning how each class works.
+   * We highlight three of our most popular classes with a text explaining how each class works.
 
 ![Skärmavbild 2021-06-30 kl  10 39 42](https://user-images.githubusercontent.com/85236391/123930007-9b100080-d98f-11eb-8e6a-51f0ad346d3b.png)
 
@@ -259,14 +259,14 @@ The footer contain the opening hours, social media links and opening times.
 
 6. As a user, I want to be able to find the business contact details and opening hours.
 * Result: TEST PASSED
-  * In the footer you will find both phone number to the gym and a seperate email adress if you would like to contact the gym that way. You will also find the opening hours to the gym in the footer.
+  * In the footer you will find both phone number to the gym and a separate email address if you would like to contact the gym that way. You will also find the opening hours to the gym in the footer.
 
 ![Skärmavbild 2021-06-29 kl  13 19 46](https://user-images.githubusercontent.com/85236391/123931029-8c761900-d990-11eb-924e-5f724cdaf39f.png)
 
 
 7. As a user, I want to be able to connect to the business thorugh social media.
 * Result: TEST PASSED
-  * You will find all the gyms social media links in the footer. All will have a direct link to the gyms facebook, twitter and instagram.
+  * You will find all the gyms social media links in the footer. All will have a direct link to the gyms Facebook, Twitter and Instagram.
 
 ![Skärmavbild 2021-06-30 kl  10 47 45](https://user-images.githubusercontent.com/85236391/123931133-a1eb4300-d990-11eb-8141-6531e948abd6.png)
 
@@ -280,7 +280,7 @@ index.html with no problems found:
 
 contact-us.html with some problems found and some of them fixed after.
 ![contact all errors ](https://user-images.githubusercontent.com/85236391/123604467-26a45880-d7fb-11eb-96f6-f6e737a03d96.png)
-Still flagg the JavaScript for Google Maps.
+Still flag the JavaScript for Google Maps.
 ![contact errors map](https://user-images.githubusercontent.com/85236391/123604514-302dc080-d7fb-11eb-8b93-90d05441331a.png)
 
 I follow the guide that was in the HTML Essentials/The Essentials and fixed all the errors.
@@ -302,11 +302,11 @@ I was using Chrome as my main browser and the website have been tested on my iPh
 I also tested the website inside of Chrome Dev Tools. With different px sizes to make sure the website will work on all different devices.
 
 ## Issues found during site development
-* I had an issue with the navigation bar after the size screen went smaller then 800px width the navigation link could not really fit even if I put it under the icon so I decided to change it to a burger menu to have it look sleek.
+* I had an issue with the navigation bar after the size screen went smaller than 800px width the navigation link could not really fit even if I put it under the icon, so I decided to change it to a burger menu to have it looks sleek.
 
 ![Skärmavbild 2021-06-29 kl  13 02 38](https://user-images.githubusercontent.com/85236391/123786728-4fe7e600-d8da-11eb-9de4-f6016424f481.png)
 
-* One other problem was the right side picture in the home section. After the screen size went down to 1200px the picture start to shrink on the height and did not really look good. I decided that the picture will jump down under the home text after 1200px and then for mobile phones I choise to change the picture to a smaller one to really fit the mobile size.
+* One other problem was the right side picture in the home section. After the screen size went down to 1200px the picture start to shrink on the height and did not really look good. I decided that the picture will jump down under the home text after 1200px and then for mobile phones I choice to change the picture to a smaller one to really fit the mobile size.
 
 ## Deployment
 The site was developed on Gitpod, using GitHub for version control and hosting the repository and final site. The repository for this project, and the associated workspace, was created from the Code Institute template.
