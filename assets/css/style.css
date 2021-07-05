@@ -38,7 +38,7 @@ h2, h3 {
     color: #b80f0a;
 }
 
-/* navigation bar */
+/* navigation bar that work as a fixed top menu */
 
 .navbar {
     display: flex;
@@ -124,7 +124,7 @@ h2, h3 {
     flex-direction: column;
 }
 
-/* home page */
+/* flex containers for each sections */
 
 .flexrow-home, .flexrow-about, .flexrow-pt, .flexrow-classes, .flexrow-member  {
     display: flex;
@@ -132,6 +132,8 @@ h2, h3 {
     justify-content: space-around;
     padding: 20px 20px;
 }
+
+/* home page */
 
 .text-left-side {
     width: 48%;
