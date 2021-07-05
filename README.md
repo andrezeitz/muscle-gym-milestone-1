@@ -1,9 +1,9 @@
 #  Muscle Gym
 
-Muscle Gym is a website for anyone that is looking for a really clean and modern gym in central Stockholm. The gym just opened it doors to the public and want with this website to try to get more customers to find it. On this website, you can find all information you need to become a new member.
+Muscle Gym is a website for anyone that is looking for a really clean and modern gym in central Stockholm. The gym just opened it doors to the public and wants with this website to try to get more customers. On this website, you can find all information you need to become a new member.
 
 This website can not be used as a template for a business since it's a project for educational purposes.
-This website will be build with HTML and CSS.
+This website has been build with HTML and CSS.
 
 Live website: [Muscle Gym](https://andrezeitz.github.io/Muscle-Gym/)
 <img width="1026" alt="Skärmavbild 2021-06-27 kl  12 47 55" src="https://user-images.githubusercontent.com/85236391/123541687-08305580-d746-11eb-9de6-8fa27c2459ce.png">
@@ -57,48 +57,48 @@ Live website: [Muscle Gym](https://andrezeitz.github.io/Muscle-Gym/)
 
 ### Website owner business goals
 
-* Increase in the number of customers
+* Increase the number of customers
 * Promote the business
 * Make it easy for customers to keep in contact with the business
-* Update schedule for classes
+* Display types of classes
 * Show the location of the gym and opening hours
 
 ### User goals
 
 * Find the location of the gym
 * Find what type of classes are offered
-* See what people work as personal trainers
-* See price for classes and gym
+* Be introduce to the profile of the personal trainers
+* View the membership prices
 
 ## User Experience
 
 ### Target Audience
-* People that is looking for a gym
-* People that have high expectations on gym equipment
+* People that are looking to join a gym
+* People that is looking for a good gym experience
 * Groups of people looking for a place to train together
-* People that is looking to train with an experience personal trainer
+* People that is looking to train with an experienced personal trainer
 
 ### User Requirements and Expectations
 * Links and functions that always work
 * A simple navigation system
-* Easily and quick to find relevant information
-* Good presentation and a visually appealing design regardless of screen size
-* Easy to contact the business
+* Relevant information is easy and quick to find
+* Presentation is visually appealing on all screen sizes
+* Contact the business easily
 
 ### User Stories
 
-* As a new user can easy navigate the website
-* As a new user it's easy to find find promotion deals
-* As a new user I can easy find personal trainer and classes information
-* As a new user I can see where the gym is located
-* As a new user I can contact the gym about questions
-* As a returning user I want clear information about the hours of classes
-* As a returning user I can see information about different personal trainers
-* As a returning user to the website it should be easy to share or page to different social media
+* New user can easy navigate the website
+* New user can find promotional membership deals easily
+* New user can easily find personal trainer and classes information
+* New user can see where the gym is located
+* New user can contact the gym about questions
+* Returning user can obtain clear information about type of classes
+* Returning user can see information about different personal trainers
+* Returning user can access or share links to different social media.
 
 ## Structure of the website
 
-The website is made so it should be easy for anyone to use the website on any devices. There should not be any different on the user experience to use desktop, mobile or tablet on the website. 
+The website is made so it should be easy for anyone to use the website on any devices. There should not be any differens for the user to use desktop, mobile or tablet on the website. 
 
 ## Wireframes
 I used website wireframe.cc to create a wireframe.
@@ -114,17 +114,17 @@ I used website wireframe.cc to create a wireframe.
 ![6-About-us-and-Contact-Mobile](https://user-images.githubusercontent.com/85236391/121511303-c59e1780-c9e8-11eb-8c15-693a28d8dbfb.png)
 
 ## Changes to Wireframes Design as the Project Progressed
-As the wireframes are just basic sketches for each page I did some changes over the course of the project.
+As the wireframes are just basic sketches for each page I made some changes over the course of the project.
 
-* Took away the "discount box" that was supposed to be on the hero cover photo.
-* Made a hamburger menu for tablet and mobile instead of having the nav-bar under the logo.
-* Deleted the location map that was supposed to be on the home page and have it only on the contact us page.
+* I took away the "discount box" that I had orignal included on the wireframe.
+* I made a hamburger menu for tablet and mobile instead of having the nav-bar links under the logo.
+* I removed the location map on the wireframe homepage and have it placed only on the contact us page.
 
 
 ## Design
 
 ### Colors
-Main colour used in project:
+For the best impact I use this colors.
 * Background color: #FFFFF and #000000
 * Font colors: #3A3A3A, #FFFFFF and #B8100A 
 * Membership box color: Gold rbg(255,215,0) and silver rbg(192,192,192)
@@ -145,11 +145,11 @@ I use #B8100A for large text that is ok contrast to the background.
 * As a main font I used Cairo and Rubik, and as backup font sans-serif
 
 ### Images
-* I used image from google.com and pexels.com
+* I used free images from google.com and pexels.com
 
 ## Features
 
-The website has below features:
+The website has the following features:
 
 ### Navigation bar
 * Navigation bar is visible on the top of each website for big screens.
@@ -167,36 +167,36 @@ The website has below features:
 
 ### Home
 The home page contains a big hero picture with full width for all screens.
-After the picture there is a lot of information about the gym. The topics are weight training, general fitness and functional training.
+Below the picture there is a lot of information about the gym. The topics are weight training, general fitness and functional training.
 
 ![Skärmavbild 2021-06-30 kl  10 37 17](https://user-images.githubusercontent.com/85236391/123929600-43719500-d98f-11eb-89d3-cd055c834311.png)
 
 
-### About us
-On this side we go in little further on our story for the gym, what we do and what our customers can expect from the gym.
+### About Us
+In this section we go delve a little further into our story for the gym, what we do and what our customers can expect from the gym.
 It contains four subheadings. Our story, Customer service, What we do and Culture.
-After that we show our personal trainers with some information about them.
+We display images of our personal trainers with some information about them.
 
 ![Skärmavbild 2021-06-29 kl  13 18 35](https://user-images.githubusercontent.com/85236391/123788621-87579200-d8dc-11eb-88ae-77db9a0fee43.png)
 
 
 ### Classes and Membership
-Classes and Membership side start with a presentation of our three popular classes. They are spinning, circuit training and zumba.
-All classes have some information on what we do and what the customer can expect from the class.
-Finally we have the membership section where the customer have two choices. Either they can sign up for the silver membership or the gold membership.
-Both membership show information on what you get and prices.
+Classes and Membership section starts with a presentation of our three popular classes. These are spinning, circuit training and zumba.
+Each box has information about what they can expect from the class.
+Finally we displayed the membership section where the customer has two choices. Either they can sign up for the silver membership or the gold membership.
+Both memberships show information on what you get and prices.
 
 ![Skärmavbild 2021-06-29 kl  13 19 03](https://user-images.githubusercontent.com/85236391/123788696-9a6a6200-d8dc-11eb-91ac-10ea60cb3689.png)
 
 
-### Contact us
-The contact us page is just a simple contact form so the customer easy can get in contact with the gym. It cointans first name, last name, email and phone number that is optional for the customer. After that we have 3 check boxes that can be clicked on what the customer want more information about. They are "classes, personal trainers and general information". Last is the text box where the customer can write all there questions inside.
-Last they will see a google maps to show where the gym is located (fake location for this project)
+### Contact Us
+The contact us page is just a simple contact form so the customer easy can get in contact with the gym. It contains first name, last name, email and phone number that is optional for the customer. After that we have 3 check boxes that the customer can click to indicate their information preference. They are "classes, personal trainers and general information". Last is the text box where the customer can write all there questions inside.
+Last they will see a google maps to show where the gym is located (fake location for this project).
 
 ![Skärmavbild 2021-06-29 kl  13 20 47](https://user-images.githubusercontent.com/85236391/123788875-d6052c00-d8dc-11eb-8e3e-4f936c17d5ae.png)
 
 ### Footer
-The footer contain the opening hours, social media links and opening times.
+The footer contains the opening hours, social media links and opening times.
 
 ![Skärmavbild 2021-06-29 kl  13 19 46](https://user-images.githubusercontent.com/85236391/123789005-f7661800-d8dc-11eb-86ec-1477e052b11c.png)
 
@@ -228,7 +228,7 @@ The footer contain the opening hours, social media links and opening times.
 ![Skärmavbild 2021-06-30 kl  10 41 12](https://user-images.githubusercontent.com/85236391/123930458-0fe33a80-d990-11eb-8408-7de317ccb90e.png)
 
 
-2. As a user, I want to be able to know how much the membership cost is.
+2. As a user, I want to be able to know how much the membership costs and types.
 * Result: TEST PASSED
    * The cost of each membership is very clear and visual on the "Classes and Membership" side.
 
@@ -244,14 +244,14 @@ The footer contain the opening hours, social media links and opening times.
 
 4. As a user, I want to be able to contact the business without have to exit the website and go to my personal mail program.
 * Result: TEST PASSED
-  * A separate contact form is provided for those users who wish to make contact. This contact page is clearely showed on the top right side of the navigation bar.
+  * A separate contact form is provided for those users who wish to make contact. This contact page is clearly shown on the top right side of the navigation bar.
 
 ![Skärmavbild 2021-06-30 kl  10 45 32](https://user-images.githubusercontent.com/85236391/123930736-4faa2200-d990-11eb-8d9a-06355aba2739.png)
 
 
 5. As a user, I want to be able to view the website on any of my devices without any loss of functionality.
 * Result: TEST PASSED
-  * The dev tools build in to chrome was used to check that the website remained responsive across different screen sizes and devices. The site was also checked on iPhone 11, iPhone 10 and Galaxy S9.
+  * Chrome dev tools was used to check that the website remained responsive across different screen sizes and devices. The site was also checked on iPhone 11, iPhone 10 and Galaxy S9.
   * Am I Responsive was also used to check responsiveness on different devices.
 
 <img width="1026" alt="Skärmavbild 2021-06-27 kl  12 47 55" src="https://user-images.githubusercontent.com/85236391/123930963-7e27fd00-d990-11eb-80fa-a78fa49ac871.png">
@@ -264,9 +264,9 @@ The footer contain the opening hours, social media links and opening times.
 ![Skärmavbild 2021-06-29 kl  13 19 46](https://user-images.githubusercontent.com/85236391/123931029-8c761900-d990-11eb-924e-5f724cdaf39f.png)
 
 
-7. As a user, I want to be able to connect to the business thorugh social media.
+7. As a user, I want to be able to connect to the business through social media.
 * Result: TEST PASSED
-  * You will find all the gyms social media links in the footer. All will have a direct link to the gyms Facebook, Twitter and Instagram.
+  * You will find all the gym's social media icons in the footer. All icons will have a direct link to the gym's Facebook, Twitter and Instagram.
 
 ![Skärmavbild 2021-06-30 kl  10 47 45](https://user-images.githubusercontent.com/85236391/123931133-a1eb4300-d990-11eb-8141-6531e948abd6.png)
 
@@ -307,6 +307,8 @@ I also tested the website inside of Chrome Dev Tools. With different px sizes to
 ![Skärmavbild 2021-06-29 kl  13 02 38](https://user-images.githubusercontent.com/85236391/123786728-4fe7e600-d8da-11eb-9de4-f6016424f481.png)
 
 * One other problem was the right side picture in the home section. After the screen size went down to 1200px the picture start to shrink on the height and did not really look good. I decided that the picture will jump down under the home text after 1200px and then for mobile phones I choice to change the picture to a smaller one to really fit the mobile size.
+
+radio buttom
 
 ## Deployment
 The site was developed on Gitpod, using GitHub for version control and hosting the repository and final site. The repository for this project, and the associated workspace, was created from the Code Institute template.
