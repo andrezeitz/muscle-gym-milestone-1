@@ -42,15 +42,18 @@ Live website: [Muscle Gym](https://andrezeitz.github.io/Muscle-Gym/)
 
 * [Technologies Used](#technologies-used)
   * [Languages](#languages)
-  * [Frameworks & Tools](#frameworks-&-tools)
+  * [Frameworks and Tools](#frameworks-and-tools)
 
 * [Testing](#testing)
-* [Code Validation](#Code-validation)
-  * [HTML](#HTML)
-  * [CSS](#CSS)
+* [Code Validation](#code-validation)
+  * [HTML](#html)
+  * [CSS](#css)
 * [Different Screen Size](#different-screen-size)
 * [Issues found during site development](#issues-found-during-site-development)
 * [Deployment](#deployment)
+  * [GitHub Pages](#github-pages)
+  * [Cloning the project locally](#cloning-the-project-locally)
+  * [Forking the repository](#forking-the-repository)
 * [Credits](#credits)
   * [Code I use](#code-i-use)
  
@@ -213,7 +216,7 @@ The footer contains the opening hours, social media links and opening times.
 * CSS
 * JavaScript for burger menu and google maps (Credits for the code in the credits section)
 
-### Frameworks & Tools
+### Frameworks and Tools
 * GitHub
 * Gitpod
 * Google Fonts
@@ -314,6 +317,25 @@ I also tested the website inside of Chrome Dev Tools. With different px sizes to
 
 ## Deployment
 The site was developed on Gitpod, using GitHub for version control and hosting the repository and final site. The repository for this project, and the associated workspace, was created from the Code Institute template.
+
+### GitHub Pages
+1. Log in to GitHub and navigate to this project's respository [Muscle Gym](#muscle-gym)
+2. On the navigation bar of the repository, go to "Settings" tab
+3. Find on the left-hand side menu and locate "Pages"
+4. Under "Source", select Branch: main and click Save
+5. The page will refresh automatically and a link to the page is published [Website](https://andrezeitz.github.io/Muscle-Gym/index.html)
+
+### Cloning the project locally
+1. Log in to GitHub and navigate to this project's respository [Muscle Gym](#muscle-gym)
+2. Click on "Code" and then copy the HTTPS address.
+3. Open Git terminal
+4. Type git clone and paste in the URL copied in step 2 and press enter
+
+### Forking the repository
+1. Log in to GitHub and navigate to this project's respository [Muscle Gym](#muscle-gym)
+2. In the top right of the page, below your profile you should see a "Fork" button. Simply click on this.
+3. A copy of the repository will then be added to your own Repositories Page.
+
 
 ## Credits
 
