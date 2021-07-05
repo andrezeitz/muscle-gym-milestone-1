@@ -399,7 +399,7 @@ h2, h3 {
     display: block;
 }
 
-.contact-container input:not([type="checkbox"]),
+.contact-container input:not([type="radio"]),
 .contact-container textarea {
     display: block;
     border: 2px solid #3a3a3a;

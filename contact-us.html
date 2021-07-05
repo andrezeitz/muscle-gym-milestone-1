@@ -57,28 +57,28 @@
             </div>
             <form action="form-success.html">
                 <!--first and last name-->
-                <label for="first-name">First Name<span class="required"></span></label>
+                <label for="first-name">First Name</label>
                 <input type="text" id="first-name" name="first-name" required>
-                <label for="last-name">Last Name<span class="required"></span></label>
+                <label for="last-name">Last Name</label>
                 <input type="text" id="last-name" name="last-name" required>
                 <!--email-->
-                <label for="email">Email Adress<span class="required"></span></label>
+                <label for="email">Email Adress</label>
                 <input type="email" id="email" name="email" required>
                 <!--phone number not required-->
                 <label for="phone-number">Phone Number (optional)</label>
                 <input type="tel" id="phone-number" name="phone-number" placeholder="In the format 07x xxx xx xx"
                 maxlength="11">
                 <!--check boxs-->
-                <p>Information you are interested in. Choose as many as you like.</p>
-                <label for="classes">Classes</label>
-                <input type="checkbox" id="classes" name="gym" value="classes" checked>
-                <label for="classes">Membership</label>
-                <input type="checkbox" id="membership" name="gym" value="membership" checked>
+                <p>Information you are interested in.</p>
                 <label for="classes">General information</label>
-                <input type="checkbox" id="info" name="gym" value="info" checked>
+                <input type="radio" id="info" name="gym" value="info" checked>
+                <label for="classes">Classes</label>
+                <input type="radio" id="classes" name="gym" value="classes">
+                <label for="classes">Membership</label>
+                <input type="radio" id="membership" name="gym" value="membership">
                 <!--message area-->
-                <label for="message">Do you have any other qustions for us?</label>
-                <textarea id="message" name="message" placeholder="Write here"></textarea>
+                <label for="message">Explain your question a bit closer here:</label>
+                <textarea id="message" name="message" placeholder="Write here" required></textarea>
                 <!--submit buttom-->
                 <input type="submit" value="Send!">
             </form>         
