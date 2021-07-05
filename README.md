@@ -37,6 +37,7 @@ Live website: [Muscle Gym](https://andrezeitz.github.io/Muscle-Gym/)
   * [About us](#about-us)
   * [Classes and Membership](#classes-and-membership)
   * [Contact us](#contact-us)
+  * [Form Success](#form-success)
   * [Footer](#footer)
 
 * [Technologies Used](#technologies-used)
@@ -134,11 +135,11 @@ For the best impact I use this colors.
 I match #3A3A3A font color with the #FFFFFF background here is the result in contrast check:
 ![Skärmavbild 2021-06-28 kl  13 51 34](https://user-images.githubusercontent.com/85236391/123632287-0e8f0200-d818-11eb-973c-07fd5db2f7be.png)
 
-I match #FFFFFF font color with the #000000 background. Here is the result in contrast check:!
+I match #FFFFFF font color with the #000000 background. Here is the result in contrast check:
 ![Skärmavbild 2021-06-28 kl  13 50 50](https://user-images.githubusercontent.com/85236391/123632997-e8b62d00-d818-11eb-9d96-ad8df40fbdab.png)
 
-I use #B8100A for large text that is ok contrast to the background.
-![Skärmavbild 2021-06-24 kl  11 58 53](https://user-images.githubusercontent.com/85236391/123540534-c43a5200-d73f-11eb-8158-7f9bc2b52633.png)
+I decided to use #B8100A on all large text and logo throughout the website. It has a good contrast for the large text:
+![Skärmavbild 2021-07-05 kl  21 12 34](https://user-images.githubusercontent.com/85236391/124511274-06b1fd80-ddd6-11eb-97f6-9fad6effc8fb.png)
 
 
 ### Fonts
@@ -184,16 +185,21 @@ We display images of our personal trainers with some information about them.
 Classes and Membership section starts with a presentation of our three popular classes. These are spinning, circuit training and zumba.
 Each box has information about what they can expect from the class.
 Finally we displayed the membership section where the customer has two choices. Either they can sign up for the silver membership or the gold membership.
-Both memberships show information on what you get and prices.
+Both memberships show information on what you get and prices. I decided to give the gold membership a slightly more exclusive look then the silver with the intention of getting as many customers as possible to choose the gold membership.
 
 ![Skärmavbild 2021-06-29 kl  13 19 03](https://user-images.githubusercontent.com/85236391/123788696-9a6a6200-d8dc-11eb-91ac-10ea60cb3689.png)
 
 
 ### Contact Us
-The contact us page is just a simple contact form so the customer easy can get in contact with the gym. It contains first name, last name, email and phone number that is optional for the customer. After that we have 3 check boxes that the customer can click to indicate their information preference. They are "classes, personal trainers and general information". Last is the text box where the customer can write all there questions inside.
-Last they will see a google maps to show where the gym is located (fake location for this project).
+The contact us page is just a simple contact form so the customer easy can get in contact with the gym. It contains first name, last name, email and phone number that is optional for the customer. After that we have 3 radio buttons that the customer can click to indicate their information preference. They are "general information, classes and personal trainers". Last is a required text box where the customer can write all there questions inside.
+On the bottom they will see a google maps to show where the gym is located (fake location for this project).
 
-![Skärmavbild 2021-06-29 kl  13 20 47](https://user-images.githubusercontent.com/85236391/123788875-d6052c00-d8dc-11eb-8e3e-4f936c17d5ae.png)
+![Skärmavbild 2021-07-05 kl  13 26 48](https://user-images.githubusercontent.com/85236391/124511310-1cbfbe00-ddd6-11eb-82fc-4149b9dde25f.png)
+
+### Form Success
+The success page of the form is proof for the customer to know that we have received their message. We also explain that we will get in touch with them as soon as possible. It also have a link so the customer can easily get back to the home website.
+
+![Skärmavbild 2021-07-05 kl  21 40 10](https://user-images.githubusercontent.com/85236391/124512810-973e0d00-ddd9-11eb-89de-df5caa4893db.png)
 
 ### Footer
 The footer contains the opening hours, social media links and opening times.
@@ -246,7 +252,7 @@ The footer contains the opening hours, social media links and opening times.
 * Result: TEST PASSED
   * A separate contact form is provided for those users who wish to make contact. This contact page is clearly shown on the top right side of the navigation bar.
 
-![Skärmavbild 2021-06-30 kl  10 45 32](https://user-images.githubusercontent.com/85236391/123930736-4faa2200-d990-11eb-8d9a-06355aba2739.png)
+![Skärmavbild 2021-07-05 kl  13 26 48](https://user-images.githubusercontent.com/85236391/124511447-6f00df00-ddd6-11eb-92dd-c7090485910f.png)
 
 
 5. As a user, I want to be able to view the website on any of my devices without any loss of functionality.
@@ -273,22 +279,17 @@ The footer contains the opening hours, social media links and opening times.
 
 ### Code Validation
 #### HTML
-The W3C Markup Validation Service was used to validate the HTML on every page of the project. On the first validation some issues were flagged on the contact-us.html and form-success.html and these were resolved as explained below:
+The W3C Markup Validation Service was used to validate the HTML on every page of the project. On the first validation some issues were flagged on the contact-us.html and these were resolved as explained below:
 
 index.html with no problems found:
+
 ![index validator](https://user-images.githubusercontent.com/85236391/123604368-11c7c500-d7fb-11eb-9791-639e43775b27.png)
 
-contact-us.html with some problems found and some of them fixed after.
-![contact all errors ](https://user-images.githubusercontent.com/85236391/123604467-26a45880-d7fb-11eb-96f6-f6e737a03d96.png)
-Still flag the JavaScript for Google Maps.
-![contact errors map](https://user-images.githubusercontent.com/85236391/123604514-302dc080-d7fb-11eb-8b93-90d05441331a.png)
+contact-us.html was flagged on some issues with the the code inside the iframe that is to display the google maps. After checking the errors they where fixed and had after that no errors.
 
-I follow the guide that was in the HTML Essentials/The Essentials and fixed all the errors.
 ![Skärmavbild 2021-06-29 kl  14 41 50](https://user-images.githubusercontent.com/85236391/123799268-567d5a00-d8e8-11eb-89e7-63bfacb6bec6.png)
 
-form-success.html with some problems found:
-![form success errors](https://user-images.githubusercontent.com/85236391/123604640-52274300-d7fb-11eb-95a5-ebae0b74ab09.png)
-form-success.html with no problems found after:
+form-success.html with no problems found
 ![form success fixed](https://user-images.githubusercontent.com/85236391/123604658-56ebf700-d7fb-11eb-9691-efce4d3b44fd.png)
 
 #### CSS
@@ -308,7 +309,8 @@ I also tested the website inside of Chrome Dev Tools. With different px sizes to
 
 * One other problem was the right side picture in the home section. After the screen size went down to 1200px the picture start to shrink on the height and did not really look good. I decided that the picture will jump down under the home text after 1200px and then for mobile phones I choice to change the picture to a smaller one to really fit the mobile size.
 
-radio buttom
+* I decided to use radio buttons instead of checkboxs so the customer only had one choise to choose from in the contact us form. If I went with checkboxes I would need to use more javascript to be able to choose how many boxes the customer was able to click and since I tried to use HTML and CSS as much as possible I decided radio buttons was better. You can see the result here [Contact Us](#contact-us)
+
 
 ## Deployment
 The site was developed on Gitpod, using GitHub for version control and hosting the repository and final site. The repository for this project, and the associated workspace, was created from the Code Institute template.
@@ -316,7 +318,9 @@ The site was developed on Gitpod, using GitHub for version control and hosting t
 ## Credits
 
 ### Code I use
-* I learned how to make a burger menu from [this tutorial from W3Schools](https://www.w3schools.com/howto/howto_js_mobile_navbar.asp)
+* I learned how to make a burger menu from [this tutorial on Youtube](https://www.youtube.com/watch?v=At4B7A4GOPg)
+* I learned how to make a iframe map from the HTML Essentials (Code Institute) tutorial.
 * I took some information about the hero-image from [this tutorial from W3Schools](https://www.w3schools.com/howto/howto_css_hero_image.asp)
 * I learned how to make the nav-bar icons to smooth scroll from [this tutorial from W3Schools](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp)
+* I learned how to make a fixed menu from [this tutorial from W3Schools](https://www.w3schools.com/howto/howto_css_fixed_menu.asp)
 * I use flexbox for all the box structure on the site. I learned it from [this tutorial from CSS-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
