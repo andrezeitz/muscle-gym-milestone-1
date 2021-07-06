@@ -314,6 +314,8 @@ I also tested the website inside of Chrome Dev Tools. With different px sizes to
 
 * I decided to use radio buttons instead of checkboxs so the customer only had one choise to choose from in the contact us form. If I went with checkboxes I would need to use more javascript to be able to choose how many boxes the customer was able to click and since I tried to use HTML and CSS as much as possible I decided radio buttons was better. You can see the result here [Contact Us](#contact-us)
 
+* I wanted to be able to make all of the nav-bar links a .active status but since "Home, About us and Classes & Membership" is on the same page it was tricky. After talking with a tutor he told me it's not possible to do it without using even more JavaScript. Since it's outside of the scope for this project I decided to only highlight the home button on the index.html. You can see the result here [Home](#home)
+
 
 ## Deployment
 The site was developed on Gitpod, using GitHub for version control and hosting the repository and final site. The repository for this project, and the associated workspace, was created from the Code Institute template.
