@@ -173,7 +173,7 @@ The website has the following features:
 The home page contains a big hero picture with full width for all screens.
 Below the picture there is a lot of information about the gym. The topics are weight training, general fitness and functional training.
 
-![Skärmavbild 2021-06-30 kl  10 37 17](https://user-images.githubusercontent.com/85236391/123929600-43719500-d98f-11eb-89d3-cd055c834311.png)
+![Skärmavbild 2021-07-06 kl  11 28 20](https://user-images.githubusercontent.com/85236391/124577189-4ec03700-de4d-11eb-90d8-b1ff06df7e0a.png)
 
 
 ### About Us
