@@ -83,6 +83,8 @@ h2, h3 {
     background-color: #b80f0a
 }
 
+/* for burger menu */
+
 .toggle-button {
     position: absolute;
     top: 1.2rem;
@@ -101,9 +103,9 @@ h2, h3 {
     border-radius: 10px;
 }
 
-.active {
+/* .active {
     background-color: #b80f0a;
-}
+} */
 
 /* hero photo */
 
@@ -472,7 +474,7 @@ input[type="submit"] {
 
 /* ---------media screens-------- */
 
-/* tablet size */
+/* some small desktops screens and big tablets */
 
 @media (max-width:1200px) {
     .flexrow-home {
@@ -525,7 +527,7 @@ input[type="submit"] {
     }
 }
 
-
+/* tablet size */
 
 @media (max-width:820px) {
     .flexrow-about {
@@ -596,7 +598,7 @@ input[type="submit"] {
     }
 }    
 
-/* personal trainer sections */
+/* mobile phone */
 
 @media (max-width:560px) {
     .flexrow-pt {
