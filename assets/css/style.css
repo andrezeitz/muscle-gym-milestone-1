@@ -83,6 +83,10 @@ h2, h3 {
     background-color: #b80f0a
 }
 
+a.nav-link.active {
+    background-color: #b80f0a;
+    }
+
 /* for burger menu */
 
 .toggle-button {
