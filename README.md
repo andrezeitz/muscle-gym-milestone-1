@@ -167,7 +167,8 @@ The website has the following features:
 
 ![Skärmavbild 2021-06-29 kl  13 16 54](https://user-images.githubusercontent.com/85236391/123788455-51b2a900-d8dc-11eb-9016-5147f64f4fa1.png)
 
-![Skärmavbild 2021-06-29 kl  13 26 33](https://user-images.githubusercontent.com/85236391/123789645-aefb2a00-d8dd-11eb-91f1-ac0fdf312126.png)
+![Skärmavbild 2021-07-06 kl  11 33 55](https://user-images.githubusercontent.com/85236391/124578033-1d943680-de4e-11eb-90a0-fc8c49482057.png)
+
 
 ### Home
 The home page contains a big hero picture with full width for all screens.
