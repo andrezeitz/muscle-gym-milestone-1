@@ -141,7 +141,7 @@ I match #3A3A3A font color with the #FFFFFF background here is the result in con
 I match #FFFFFF font color with the #000000 background. Here is the result in contrast check:
 ![Skärmavbild 2021-06-28 kl  13 50 50](https://user-images.githubusercontent.com/85236391/123632997-e8b62d00-d818-11eb-9d96-ad8df40fbdab.png)
 
-I decided to use #B8100A on all large text and logo throughout the website. It has a good contrast for the large text:
+This color would not be suitable for smaller text but it works fine with big text. I know it would be wrong to use it on small text.
 ![Skärmavbild 2021-07-05 kl  21 12 34](https://user-images.githubusercontent.com/85236391/124511274-06b1fd80-ddd6-11eb-97f6-9fad6effc8fb.png)
 
 
