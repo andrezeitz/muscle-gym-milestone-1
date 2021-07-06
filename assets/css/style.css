@@ -107,10 +107,6 @@ a.nav-link.active {
     border-radius: 10px;
 }
 
-/* .active {
-    background-color: #b80f0a;
-} */
-
 /* hero photo */
 
 #gym-pic {
@@ -602,7 +598,7 @@ input[type="submit"] {
     }
 }    
 
-/* mobile phone */
+/* mobile size */
 
 @media (max-width:560px) {
     .flexrow-pt {
