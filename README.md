@@ -5,7 +5,7 @@ Muscle Gym is a website for anyone that is looking for a really clean and modern
 This website can not be used as a template for a business since it's a project for educational purposes.
 This website has been build with HTML and CSS.
 
-Live website: [Muscle Gym](https://andrezeitz.github.io/Muscle-Gym/)
+Live website: [Muscle Gym](https://andrezeitz.github.io/muscle-gym-milestone-1/)
 <img width="1026" alt="Skärmavbild 2021-06-27 kl  12 47 55" src="https://user-images.githubusercontent.com/85236391/123541687-08305580-d746-11eb-9de6-8fa27c2459ce.png">
 
 ## Table of Contents
